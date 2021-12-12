@@ -55,7 +55,7 @@ function Footer() {
               </div>
             </div>
             {/* /.col-md-3 */}
-            <div className="col-lg-3 col-sm-6 reponsive-mb30">
+            {/* <div className="col-lg-3 col-sm-6 reponsive-mb30">
               <div className="widget widget-recent-new">
                 <h5 className="widget-title">Recent News</h5>
                 <ul className="popular-new">
@@ -79,9 +79,9 @@ function Footer() {
                   </li>
                 </ul>
               </div>
-            </div>
+            </div> */}
             {/* /.col-md-3 */}
-            <div className="col-lg-3 col-sm-6 reponsive-mb30">
+            {/* <div className="col-lg-3 col-sm-6 reponsive-mb30">
               <div className="widget widget-letter">
                 <h5 className="widget-title">Newsletter</h5>
                 <p className="info-text">
@@ -119,7 +119,7 @@ function Footer() {
                   <div id="subscribe-msg" />
                 </form>
               </div>
-            </div>
+            </div> */}
             {/* /.col-md-3 */}
           </div>
           {/* /.row */}

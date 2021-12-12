@@ -87,7 +87,7 @@ function Navbar() {
                       >
                         <ul className="menu">
                           <li className="active">
-                            <a to="/">Home</a>
+                            <a href="/">Home</a>
                           </li>
                           <li>
                             <a href="/about-us">About Us</a>
