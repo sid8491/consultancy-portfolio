@@ -56,7 +56,7 @@ function Statistics() {
               </div>
               {/* /.flat-counter */}
             </div>
-            <div className="col-lg-2 col-sm-6">
+            {/* <div className="col-lg-2 col-sm-6">
               <div className="flat-counter style2">
                 <div className="content-counter">
                   <div
@@ -70,8 +70,8 @@ function Statistics() {
                   <div className="name-count">Awards Won</div>
                 </div>
               </div>
-              {/* /.flat-counter */}
-            </div>
+             
+            </div> */}
             <div className="col-lg-2 col-sm-6">
               <div className="flat-counter style2 before percent">
                 <div className="content-counter">

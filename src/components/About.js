@@ -22,7 +22,7 @@ function About() {
               consultancy space and believe in pursuing business through{" "}
               <b>TRUST</b>,<b>SUSTAINABLE</b> and <b>INNOVATION</b>.
             </div>
-            <div>
+            <div className="sub-title">
               We are committed to helping organizations’ to find best suitable
               talent from the market. Our clientele is spread across the IT,
               Retail, Telecom, FMCG, FMCD, BPO/KPO, E-commerce, Banking, NBFC,
@@ -87,7 +87,7 @@ function About() {
         </div>
       </section>
       {/* <br /> <br /> */}
-      <section className="flat-row padingbotom bg-section2">
+      <section className="flat-row padingbotom ">
         <br />
         <div className="container">
           <div className="row">
@@ -99,7 +99,23 @@ function About() {
                 Absolute Resource Solutions (ARS) mission is to provide complete
                 workforce solutions across industries and level.
               </p>
-              <br />
+            </div>
+            <div className="col-lg-6">
+              <div className="iconbox iconleft" style={{ marginLeft: 200 }}>
+                <div className="box-header">
+                  <div className="box-icon">
+                    <i
+                      className="fa fa-5x fa-trophy"
+                      style={{ fontSize: 150 }}
+                      aria-hidden="true"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="row">
+            <div className="col-lg-6 history-text">
               <div className="title-section style3 left">
                 <h1 className="title">Our VISION</h1>
               </div>
@@ -110,74 +126,15 @@ function About() {
                 approaches.
               </p>
             </div>
-
             <div className="col-lg-6">
-              <h3>INDUSTRIES</h3>
-              <div className="main-history">
-                <div className="wrap-step clearfix">
-              
-                  <div className=" data-step float-left">
-                    {/* <span className="year">1990</span> */}
-                  </div>
-                  <div className=" info-step float-left">
-                    <h5>IT PRODUCT AND SERVICES</h5>
-                    <p>
-                      nother family member reinforced the younger man’s
-                      inter-est in the field. Joe’s uncle was an architect and a
-                      general contractor and encouraged Joe.
-                    </p>
-                  </div>
-                </div>
-                <div className="wrap-step clearfix">
-                  <div className=" data-step float-left">
-                    {/* <span className="year">2010</span> */}
-                  </div>
-                  <div className=" info-step float-left">
-                    <h5>ENGINEERING</h5>
-                    <p>
-                      nother family member reinforced the younger man’s
-                      inter-est in the field. Joe’s uncle was an architect and a
-                      general contractor and encouraged Joe.
-                    </p>
-                  </div>
-                </div>
-                <div className="wrap-step clearfix">
-                  <div className=" data-step float-left">
-                    {/* <span className="year">2015</span> */}
-                  </div>
-                  <div className=" info-step float-left">
-                    <h5>CONSUMERS</h5>
-                    <p>
-                      nother family member reinforced the younger man’s
-                      inter-est in the field. Joe’s uncle was an architect and a
-                      general contractor and encouraged Joe.
-                    </p>
-                  </div>
-                </div>
-                <div className="wrap-step clearfix">
-                  <div className=" data-step float-left">
-                    {/* <span className="year">2017</span> */}
-                  </div>
-                  <div className=" info-step float-left">
-                    <h5>PHARMA AND HEALTHCARE</h5>
-                    <p>
-                      nother family member reinforced the younger man’s
-                      inter-est in the field. Joe’s uncle was an architect and a
-                      general contractor and encouraged Joe.
-                    </p>
-                  </div>
-                </div>
-                <div className="wrap-step clearfix">
-                  <div className=" data-step float-left">
-                    {/* <span className="year">2017</span> */}
-                  </div>
-                  <div className=" info-step float-left">
-                    <h5>SERVICE SECTOR</h5>
-                    <p>
-                      nother family member reinforced the younger man’s
-                      inter-est in the field. Joe’s uncle was an architect and a
-                      general contractor and encouraged Joe.
-                    </p>
+              <div className="iconbox iconleft" style={{ marginLeft: 200 }}>
+                <div className="box-header">
+                  <div className="box-icon">
+                    <i
+                      className="fa fa-5x fa-bullseye"
+                      style={{ fontSize: 150 }}
+                      aria-hidden="true"
+                    />
                   </div>
                 </div>
               </div>
@@ -185,328 +142,282 @@ function About() {
           </div>
         </div>
       </section>
-      <section className="flat-row  page-teammember">
+
+      <section className="bg-section2 ">
         <div className="container">
-          <div className="row">
-            <div className="col-md-12">
-              <div className="title-section style3 text-center">
-                <h1 className="title">Meet Our Team</h1>
-              </div>
-            </div>
+          <br />
+          <div className="title-section style3 left">
+            <h1 className="title">OUR INDUSTRIES</h1>
           </div>
           <div className="row">
-            <div className="col-lg-3 col-sm-6">
-              <div className="flat-team">
-                <div className="avatar">
-                  <img src="images/team/1.jpg" alt="image" />
+            <div className="col-lg-4 flat-icon-left">
+              <div className="iconbox iconleft">
+                <div className="box-header">
+                  <div className="box-icon">
+                    <i className="icon_desktop" />
+                  </div>
                 </div>
-                <div className="content text-center">
-                  <h5 className="name">Ajay</h5>
-                  <p className="position">Consultant</p>
-                  <ul className="social-links style2 team">
-                    <li>
-                      <a href="#">
-                        <i className="fa fa-facebook" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fa fa-twitter" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fa fa-vimeo" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fa fa-instagram" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fa fa-skype" />
-                      </a>
-                    </li>
-                  </ul>
+                <div className="box-content">
+                  <h5 className="box-title" style={{ marginTop: 10 }}>
+                    IT - Software
+                  </h5>
+                </div>
+              </div>
+              <div className="iconbox iconleft">
+                <div className="box-header">
+                  <div className="box-icon">
+                    <i className="icon_currency" />
+                  </div>
+                </div>
+                <div className="box-content">
+                  <h5 className="box-title" style={{ marginTop: 10 }}>
+                    Banking / Financial Services
+                  </h5>
+                </div>
+              </div>
+              <div className="iconbox iconleft">
+                <div className="box-header">
+                  <div className="box-icon">
+                    <i className="icon_cogs" />
+                  </div>
+                </div>
+                <div className="box-content">
+                  <h5 className="box-title" style={{ marginTop: 10 }}>
+                    Manufacturing
+                  </h5>
+                </div>
+              </div>
+              <div className="iconbox iconleft">
+                <div className="box-header">
+                  <div className="box-icon">
+                    <i className="icon_building_alt" />
+                  </div>
+                </div>
+                <div className="box-content">
+                  <h5 className="box-title" style={{ marginTop: 10 }}>
+                    Engineering / Construction
+                  </h5>
+                </div>
+              </div>
+              <div className="iconbox iconleft">
+                <div className="box-header">
+                  <div className="box-icon">
+                    <i className="icon_clipboard" />
+                  </div>
+                </div>
+                <div className="box-content">
+                  <h5 className="box-title" style={{ marginTop: 10 }}>
+                    Education / Training
+                  </h5>
+                </div>
+              </div>
+              <div className="iconbox iconleft">
+                <div className="box-header">
+                  <div className="box-icon">
+                    <i className="ti-headphone" />
+                  </div>
+                </div>
+                <div className="box-content">
+                  <h5 className="box-title" style={{ marginTop: 10 }}>
+                    BPO / Call Center
+                  </h5>
+                </div>
+              </div>
+              <div className="iconbox iconleft">
+                <div className="box-header">
+                  <div className="box-icon">
+                    <i className="ti-plug" />
+                  </div>
+                </div>
+                <div className="box-content">
+                  <h5 className="box-title" style={{ marginTop: 10 }}>
+                    IT - Hardware / Networking
+                  </h5>
                 </div>
               </div>
             </div>
-            <div className="col-lg-3 col-sm-6">
-              <div className="flat-team">
-                <div className="avatar">
-                  <img src="images/team/2.jpg" alt="image" />
+            <div className="col-lg-4 flat-icon-left">
+              <div className="iconbox iconleft">
+                <div className="box-header">
+                  <div className="box-icon">
+                    <i className="ti-car" />
+                  </div>
                 </div>
-                <div className="content text-center">
-                  <h5 className="name">Vijay</h5>
-                  <p className="position">Consultant</p>
-                  <ul className="social-links style2 team">
-                    <li>
-                      <a href="#">
-                        <i className="fa fa-facebook" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fa fa-twitter" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fa fa-vimeo" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fa fa-instagram" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fa fa-skype" />
-                      </a>
-                    </li>
-                  </ul>
+                <div className="box-content">
+                  <h5 className="box-title" style={{ marginTop: 10 }}>
+                    Automobile / Auto Ancillaries
+                  </h5>
+                </div>
+              </div>
+              <div className="iconbox iconleft">
+                <div className="box-header">
+                  <div className="box-icon">
+                    <i className="icon_phone" />
+                  </div>
+                </div>
+                <div className="box-content">
+                  <h5 className="box-title" style={{ marginTop: 10 }}>
+                    Telecom / ISP
+                  </h5>
+                </div>
+              </div>
+              <div className="iconbox iconleft">
+                <div className="box-header">
+                  <div className="box-icon">
+                    <i className="ti-heart-broken" />
+                  </div>
+                </div>
+                <div className="box-content">
+                  <h5 className="box-title" style={{ marginTop: 10 }}>
+                    Medical / Healthcare
+                  </h5>
+                </div>
+              </div>
+              <div className="iconbox iconleft">
+                <div className="box-header">
+                  <div className="box-icon">
+                    <i className="icon_film" />
+                  </div>
+                </div>
+                <div className="box-content">
+                  <h5 className="box-title" style={{ marginTop: 10 }}>
+                    Advertising / MR / PR / Events
+                  </h5>
+                </div>
+              </div>
+              <div className="iconbox iconleft">
+                <div className="box-header">
+                  <div className="box-icon">
+                    <i className="ti-plug" />
+                  </div>
+                </div>
+                <div className="box-content">
+                  <h5 className="box-title" style={{ marginTop: 10 }}>
+                    Power / Energy
+                  </h5>
+                </div>
+              </div>
+              <div className="iconbox iconleft">
+                <div className="box-header">
+                  <div className="box-icon">
+                    <i className="icon_house" />
+                  </div>
+                </div>
+                <div className="box-content">
+                  <h5 className="box-title" style={{ marginTop: 10 }}>
+                    Architecture / Interior Design
+                  </h5>
+                </div>
+              </div>
+              <div className="iconbox iconleft">
+                <div className="box-header">
+                  <div className="box-icon">
+                    <i className="ti-ticket" />
+                  </div>
+                </div>
+                <div className="box-content">
+                  <h5 className="box-title" style={{ marginTop: 10 }}>
+                    Chemical / Plastic / Rubber / Glass
+                  </h5>
                 </div>
               </div>
             </div>
-            <div className="col-lg-3 col-sm-6">
-              <div className="flat-team">
-                <div className="avatar">
-                  <img src="images/team/3.jpg" alt="image" />
+            <div className="col-lg-4 flat-icon-left">
+              <div className="iconbox iconleft">
+                <div className="box-header">
+                  <div className="box-icon">
+                    <i className="ti-map-alt" />
+                  </div>
                 </div>
-                <div className="content text-center">
-                  <h5 className="name">Seeta</h5>
-                  <p className="position">Consultant</p>
-                  <ul className="social-links style2 team">
-                    <li>
-                      <a href="#">
-                        <i className="fa fa-facebook" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fa fa-twitter" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fa fa-vimeo" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fa fa-instagram" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fa fa-skype" />
-                      </a>
-                    </li>
-                  </ul>
+                <div className="box-content">
+                  <h5 className="box-title" style={{ marginTop: 10 }}>
+                    Hotel / Restaurant
+                  </h5>
                 </div>
               </div>
-            </div>
-            <div className="col-lg-3 col-sm-6">
-              <div className="flat-team">
-                <div className="avatar">
-                  <img src="images/team/4.jpg" alt="image" />
+              <div className="iconbox iconleft">
+                <div className="box-header">
+                  <div className="box-icon">
+                    <i className="ti-printer" />
+                  </div>
                 </div>
-                <div className="content text-center">
-                  <h5 className="name">Geeta</h5>
-                  <p className="position">Consultant</p>
-                  <ul className="social-links style2 team">
-                    <li>
-                      <a href="#">
-                        <i className="fa fa-facebook" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fa fa-twitter" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fa fa-vimeo" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fa fa-instagram" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fa fa-skype" />
-                      </a>
-                    </li>
-                  </ul>
+                <div className="box-content">
+                  <h5 className="box-title" style={{ marginTop: 10 }}>
+                    Consumer Durables / Electronics
+                  </h5>
                 </div>
               </div>
-            </div>
-            <div className="col-lg-3 col-sm-6">
-              <div className="flat-team">
-                <div className="avatar">
-                  <img src="images/team/5.jpg" alt="image" />
+              <div className="iconbox iconleft">
+                <div className="box-header">
+                  <div className="box-icon">
+                    <i className="ti-export" />
+                  </div>
                 </div>
-                <div className="content text-center">
-                  <h5 className="name">Ramesh</h5>
-                  <p className="position">Consultant</p>
-                  <ul className="social-links style2 team">
-                    <li>
-                      <a href="#">
-                        <i className="fa fa-facebook" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fa fa-twitter" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fa fa-vimeo" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fa fa-instagram" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fa fa-skype" />
-                      </a>
-                    </li>
-                  </ul>
+                <div className="box-content">
+                  <h5 className="box-title" style={{ marginTop: 10 }}>
+                    Export-Import / Trading
+                  </h5>
                 </div>
               </div>
-            </div>
-            <div className="col-lg-3 col-sm-6">
-              <div className="flat-team">
-                <div className="avatar">
-                  <img src="images/team/6.jpg" alt="image" />
+              <div className="iconbox iconleft">
+                <div className="box-header">
+                  <div className="box-icon">
+                    <i className="ti-brush-alt" />
+                  </div>
                 </div>
-                <div className="content text-center">
-                  <h5 className="name">Suresh</h5>
-                  <p className="position">Consultant</p>
-                  <ul className="social-links style2 team">
-                    <li>
-                      <a href="#">
-                        <i className="fa fa-facebook" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fa fa-twitter" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fa fa-vimeo" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fa fa-instagram" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fa fa-skype" />
-                      </a>
-                    </li>
-                  </ul>
+                <div className="box-content">
+                  <h5 className="box-title" style={{ marginTop: 10 }}>
+                    Paint
+                  </h5>
                 </div>
               </div>
-            </div>
-            <div className="col-lg-3 col-sm-6">
-              <div className="flat-team">
-                <div className="avatar">
-                  <img src="images/team/7.jpg" alt="image" />
+              <div className="iconbox iconleft">
+                <div className="box-header">
+                  <div className="box-icon">
+                    <i className="ti-paint-bucket" />
+                  </div>
                 </div>
-                <div className="content text-center">
-                  <h5 className="name">Tango</h5>
-                  <p className="position">Consultant</p>
-                  <ul className="social-links style2 team">
-                    <li>
-                      <a href="#">
-                        <i className="fa fa-facebook" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fa fa-twitter" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fa fa-vimeo" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fa fa-instagram" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fa fa-skype" />
-                      </a>
-                    </li>
-                  </ul>
+                <div className="box-content">
+                  <h5 className="box-title" style={{ marginTop: 10 }}>
+                    Furnishings / Sanitaryware / Electricals
+                  </h5>
                 </div>
               </div>
-            </div>
-            <div className="col-lg-3 col-sm-6">
-              <div className="flat-team">
-                <div className="avatar">
-                  <img src="images/team/8.jpg" alt="image" />
+              <div className="iconbox iconleft">
+                <div className="box-header">
+                  <div className="box-icon">
+                    <i className="ti-gift" />
+                  </div>
                 </div>
-                <div className="content text-center">
-                  <h5 className="name">Charly</h5>
-                  <p className="position">Consultant</p>
-                  <ul className="social-links style2 team">
-                    <li>
-                      <a href="#">
-                        <i className="fa fa-facebook" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fa fa-twitter" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fa fa-vimeo" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fa fa-instagram" />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i className="fa fa-skype" />
-                      </a>
-                    </li>
-                  </ul>
+                <div className="box-content">
+                  <h5 className="box-title" style={{ marginTop: 10 }}>
+                    Gifts / Toys / Stationary
+                  </h5>
+                </div>
+              </div>
+              <div className="iconbox iconleft">
+                <div className="box-header">
+                  <div className="box-icon">
+                    <i className="icon_building" />
+                  </div>
+                </div>
+                <div className="box-content">
+                  <h5 className="box-title" style={{ marginTop: 10 }}>
+                    Real Estate
+                  </h5>
                 </div>
               </div>
             </div>
           </div>
         </div>
       </section>
-      <section className="flat-row padingbotom">
+
+      {/* <section className="flat-row padingbotom">
         <div className="container">
           <div className="row">
             <div className="col-lg-6 history-text">
               <div className="title-section style3 left">
+                <br />
                 <h1 className="title">Our History</h1>
               </div>
               <p>
@@ -526,9 +437,6 @@ function About() {
                 occaecat.-Excepteur sint occaecat cupidatat non proident, sunt
                 in culpa qui officia deserunt mollit anim id est laborum.
               </p>
-              {/* <a href="#" className="flat-button style2">
-                Read more
-              </a> */}
             </div>
             <div className="col-lg-6">
               <div className="main-history">
@@ -588,7 +496,7 @@ function About() {
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
     </div>
   );
 }
