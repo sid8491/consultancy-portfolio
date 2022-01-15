@@ -17,7 +17,7 @@ function Benefits() {
                   </div>
                 </div>
                 <div className="box-content">
-                  <h5 className="box-title">Positive Globalization</h5>
+                  <h5 className="box-title">STAFFING/HIRING SOLUTIONS</h5>
                   <p>
                     Sed ut perspiciatis unde omnis iste natus error sit
                     voluptatem accusan doloremque laudantium
@@ -36,7 +36,7 @@ function Benefits() {
                   </div>
                 </div>
                 <div className="box-content">
-                  <h5 className="box-title">Strategy &amp; Consulting</h5>
+                  <h5 className="box-title">SOFTWARE DEVELOPMENT SOLUTIONS</h5>
                   <p>
                     Sed ut perspiciatis unde omnis iste natus error sit
                     voluptatem accusan doloremque laudantium
@@ -55,7 +55,7 @@ function Benefits() {
                   </div>
                 </div>
                 <div className="box-content">
-                  <h5 className="box-title">Development Maintenance</h5>
+                  <h5 className="box-title">PEOPLE ANALYTICS SOLUTIONS</h5>
                   <p>
                     Sed ut perspiciatis unde omnis iste natus error sit
                     voluptatem accusan doloremque laudantium
@@ -66,6 +66,7 @@ function Benefits() {
                 </div>
               </div>
             </li>
+            
           </ul>
           <div className="divider sh26" />
           <div className="row">
@@ -78,7 +79,7 @@ function Benefits() {
                   </div>
                 </div>
                 <div className="box-content">
-                  <h5 className="box-title">Financial Planning</h5>
+                  <h5 className="box-title">IT Services</h5>
                   <p>
                     Sed ut perspiciatis unde omnis iste natus error sit
                     voluptatem accusan doloremque laudantium
@@ -93,7 +94,7 @@ function Benefits() {
                   </div>
                 </div>
                 <div className="box-content">
-                  <h5 className="box-title">Mortgage Advisor</h5>
+                  <h5 className="box-title">Placement Services</h5>
                   <p>
                     Sed ut perspiciatis unde omnis iste natus error sit
                     voluptatem accusan doloremque laudantium
@@ -115,7 +116,7 @@ function Benefits() {
                   </div>
                 </div>
                 <div className="box-content">
-                  <h5 className="box-title">Saving &amp; Investing</h5>
+                  <h5 className="box-title">Career Counselling</h5>
                   <p>
                     Sed ut perspiciatis unde omnis iste natus error sit
                     voluptatem accusan doloremque laudantium
@@ -130,7 +131,7 @@ function Benefits() {
                   </div>
                 </div>
                 <div className="box-content">
-                  <h5 className="box-title">Debt &amp; Borrowing</h5>
+                  <h5 className="box-title">Industry Mapping</h5>
                   <p>
                     Sed ut perspiciatis unde omnis iste natus error sit
                     voluptatem accusan doloremque laudantium

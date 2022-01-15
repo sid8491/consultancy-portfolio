@@ -13,10 +13,7 @@ function Footer() {
                     <img src="images/ars_logo.jpg" alt="image" />
                   </a>
                 </div>
-                <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-                  do eiusmod tempor incididunt ut labore
-                </p>
+                <p>Solving Corporate challenges - Absolutely</p>
                 <ul className="flat-information">
                   <li>
                     <i className="fa fa-map-marker" />

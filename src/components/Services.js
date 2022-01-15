@@ -3,21 +3,27 @@ import React from "react";
 function Services() {
   return (
     <div>
-      <div style={{ height: "150px", backgroundColor: "#0d2034" }}></div>
+      <div
+        style={{ height: "150px", backgroundColor: "rgb(63, 94, 128)" }}
+      ></div>
       <section className="flat-row section-iconbox padding2 bg-section">
         <div className="container">
           <div className="row">
             <div className="col-md-5">
               <div className="title-section style3 left">
-                <h1 className="title">Our Industry</h1>
+                <h1 className="title">Our Services</h1>
               </div>
             </div>
             <div className="col-md-7">
               <div className="title-section padding-left50">
                 <div className="sub-title style3">
-                  We help organisations work smarter and grow faster. Reach out
-                  to us to build effective organisations, reduce costs, manage
-                  risk and regulation and leverage talent.
+                  We believe in providing the best and most suited candidates
+                  for all kinds of roles required by our clients. What we offer
+                  to our customers is more than just a vendor- customer
+                  relationship. We focus on building partnership with our
+                  customers to enhance customer experience &amp; achieve
+                  business outcomes through strong service delivery backed by
+                  innovative usage of technology and analytics.
                 </div>
               </div>
             </div>
@@ -31,7 +37,7 @@ function Services() {
                   </div>
                 </div>
                 <div className="box-content">
-                  <h5 className="box-title">Corporate Finance</h5>
+                  <h5 className="box-title">STAFFING SERVICES</h5>
                   <p>
                     Excepteur sint occaecat cupidatat non proident, sunt in
                     culpa qui officia deserunt mollit anim id est laborum
@@ -47,7 +53,7 @@ function Services() {
                   </div>
                 </div>
                 <div className="box-content">
-                  <h5 className="box-title">Economic Consulting</h5>
+                  <h5 className="box-title">C2H</h5>
                   <p>
                     Excepteur sint occaecat cupidatat non proident, sunt in
                     culpa qui officia deserunt mollit anim id est laborum
@@ -59,11 +65,11 @@ function Services() {
               <div className="iconbox style3 box-shadow2">
                 <div className="box-header">
                   <div className="box-icon">
-                    <i className="ti-bell" />
+                    <i className="ti-stack-overflow" />
                   </div>
                 </div>
                 <div className="box-content">
-                  <h5 className="box-title">Forensic &amp; Litigation</h5>
+                  <h5 className="box-title">IT SERVICES</h5>
                   <p>
                     Excepteur sint occaecat cupidatat non proident, sunt in
                     culpa qui officia deserunt mollit anim id est laborum
@@ -79,7 +85,7 @@ function Services() {
                   </div>
                 </div>
                 <div className="box-content">
-                  <h5 className="box-title">Strategic Communications</h5>
+                  <h5 className="box-title">PLACEMENT SERVICES</h5>
                   <p>
                     Excepteur sint occaecat cupidatat non proident, sunt in
                     culpa qui officia deserunt mollit anim id est laborum
@@ -91,11 +97,11 @@ function Services() {
               <div className="iconbox style3 box-shadow2">
                 <div className="box-header">
                   <div className="box-icon">
-                    <i className="ti-desktop" />
+                    <i className="ti-stats-up" />
                   </div>
                 </div>
                 <div className="box-content">
-                  <h5 className="box-title">Technology Consulting</h5>
+                  <h5 className="box-title">CAREER COUNSELLING</h5>
                   <p>
                     Excepteur sint occaecat cupidatat non proident, sunt in
                     culpa qui officia deserunt mollit anim id est laborum
@@ -107,11 +113,59 @@ function Services() {
               <div className="iconbox style3 box-shadow2">
                 <div className="box-header">
                   <div className="box-icon">
-                    <i className="ti-support" />
+                    <i className="ti-bell" />
                   </div>
                 </div>
                 <div className="box-content">
-                  <h5 className="box-title">Healthcare Consulting</h5>
+                  <h5 className="box-title">RESEARCH &amp; DEVELOPMENT</h5>
+                  <p>
+                    Excepteur sint occaecat cupidatat non proident, sunt in
+                    culpa qui officia deserunt mollit anim id est laborum
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4">
+              <div className="iconbox style3 box-shadow2">
+                <div className="box-header">
+                  <div className="box-icon">
+                    <i className="ti-github" />
+                  </div>
+                </div>
+                <div className="box-content">
+                  <h5 className="box-title">HEAD HUNTING</h5>
+                  <p>
+                    Excepteur sint occaecat cupidatat non proident, sunt in
+                    culpa qui officia deserunt mollit anim id est laborum
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4">
+              <div className="iconbox style3 box-shadow2">
+                <div className="box-header">
+                  <div className="box-icon">
+                    <i className="ti-world" />
+                  </div>
+                </div>
+                <div className="box-content">
+                  <h5 className="box-title">INDUSTRY MAPPING</h5>
+                  <p>
+                    Excepteur sint occaecat cupidatat non proident, sunt in
+                    culpa qui officia deserunt mollit anim id est laborum
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4">
+              <div className="iconbox style3 box-shadow2">
+                <div className="box-header">
+                  <div className="box-icon">
+                    <i className="ti-view-list-alt" />
+                  </div>
+                </div>
+                <div className="box-content">
+                  <h5 className="box-title">RESUME WRITING</h5>
                   <p>
                     Excepteur sint occaecat cupidatat non proident, sunt in
                     culpa qui officia deserunt mollit anim id est laborum

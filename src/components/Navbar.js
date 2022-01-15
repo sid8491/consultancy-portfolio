@@ -86,7 +86,7 @@ function Navbar() {
                         className="mainnav style2 color-93a float-left"
                       >
                         <ul className="menu">
-                          <li className="active">
+                          <li>
                             <a href="/">Home</a>
                           </li>
                           <li>
