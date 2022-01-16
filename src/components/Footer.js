@@ -32,6 +32,9 @@ function Footer() {
             </div>
             {/* /.col-md-3 */}
             <div className="col-lg-3 col-sm-6 reponsive-mb30">
+              
+            </div>
+            <div className="col-lg-3 col-sm-6 reponsive-mb30">
               <div className="widget widget-out-link clearfix">
                 <h5 className="widget-title">Our Links</h5>
                 <ul className="one-half">

@@ -130,29 +130,29 @@ function Contact() {
           <div className="row">
             <div className="col-lg-4">
               <div className="info-box text-center">
-                <h3>France</h3>
+                <h3>Address</h3>
                 <ul>
-                  <li>John Doe, 123 Main St Chicago, IL 60626</li>
-                  <li>Email: info@greenorganic.com</li>
+                  <li>A2B/49A, Paschim Vihar, Delhi</li>
+                  <li>Email: info@arsps.net</li>
+                  <li>Phone: 001-1234-56789</li>
+                </ul>
+              </div>
+            </div>
+            <div className="col-lg-4">
+              <div className="info-box text-center">
+                <h3>Something 1</h3>
+                <ul>
+                  <li>Line 1</li>
+                  <li>Email: inf o@greenorganic.com</li>
                   <li>Phone: 258-556-189</li>
                 </ul>
               </div>
             </div>
             <div className="col-lg-4">
               <div className="info-box text-center">
-                <h3>United States</h3>
+                <h3>Something 2</h3>
                 <ul>
-                  <li>John Doe, 123 Main St Chicago, IL 60626</li>
-                  <li>Email: info@greenorganic.com</li>
-                  <li>Phone: 258-556-189</li>
-                </ul>
-              </div>
-            </div>
-            <div className="col-lg-4">
-              <div className="info-box text-center">
-                <h3>Viet Nam</h3>
-                <ul>
-                  <li>John Doe, 123 Main St Chicago, IL 60626</li>
+                  <li>001-1234-56789</li>
                   <li>Email: info@greenorganic.com</li>
                   <li>Phone: 258-556-189</li>
                 </ul>

@@ -410,6 +410,7 @@ function About() {
             </div>
           </div>
         </div>
+        <br />
       </section>
 
       {/* <section className="flat-row padingbotom">

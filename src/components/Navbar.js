@@ -54,6 +54,11 @@ function Navbar() {
                         <i className="fa fa-instagram" />
                       </a>
                     </li>
+                    <li>
+                      <a href="https://www.linkedin.com">
+                        <i className="fa fa-linkedin " />
+                      </a>
+                    </li>
                   </ul>
                 </div>
               </div>
