@@ -16,7 +16,7 @@ function About() {
               <span>We advise</span> you, you call the right decision!
             </h1>
             <div className="sub-title">
-              ARS Process Solutions &amp; Consultants Pvt. Ltd., is a company
+              ARS Process Solutions & Consultants Pvt. Ltd., is a company
               established in 2015 serving PAN India, with the experienced
               technical team to serve excellence in the environmental
               consultancy space and believe in pursuing business through{" "}

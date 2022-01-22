@@ -37,10 +37,17 @@ function Services() {
                   </div>
                 </div>
                 <div className="box-content">
-                  <h5 className="box-title">STAFFING SERVICES</h5>
+                  <h5 className="box-title">
+                    Recruitment Process Outsourcing (RPO)
+                  </h5>
                   <p>
-                    Excepteur sint occaecat cupidatat non proident, sunt in
-                    culpa qui officia deserunt mollit anim id est laborum
+                    RPO is a form of business process outsourcing (BPO) where an
+                    employer transfers all or part of its recruitment processes
+                    to an external service provider. An rpo provider can provide
+                    its own or may assume the company’s staff, technology,
+                    methodologies and reporting. We act as an extended arm of
+                    our clients and help manage their end to end recruitment
+                    needs.
                   </p>
                 </div>
               </div>
@@ -53,10 +60,17 @@ function Services() {
                   </div>
                 </div>
                 <div className="box-content">
-                  <h5 className="box-title">C2H</h5>
+                  <h5 className="box-title">
+                    CAREER TRANSITION, OR OUTPLACEMENT
+                  </h5>
                   <p>
-                    Excepteur sint occaecat cupidatat non proident, sunt in
-                    culpa qui officia deserunt mollit anim id est laborum
+                    A service provided to a departing employee to assist with an
+                    effective and smooth transition to a new opportunity, or
+                    even retirement. Essentially, it is a support service
+                    provided by an organization, to support individuals who are
+                    exiting the business in order to help these former employees
+                    transition to new jobs and help them re-orient themselves in
+                    the job market.
                   </p>
                 </div>
               </div>
@@ -69,10 +83,11 @@ function Services() {
                   </div>
                 </div>
                 <div className="box-content">
-                  <h5 className="box-title">IT SERVICES</h5>
+                  <h5 className="box-title">MARKET INTELLIGENCE</h5>
                   <p>
-                    Excepteur sint occaecat cupidatat non proident, sunt in
-                    culpa qui officia deserunt mollit anim id est laborum
+                    We enable organizations to take informed talent decisions.
+                    Offerings include Talent Mapping, Compensation Surveys &
+                    Independent Reference Checks.
                   </p>
                 </div>
               </div>
@@ -85,10 +100,14 @@ function Services() {
                   </div>
                 </div>
                 <div className="box-content">
-                  <h5 className="box-title">PLACEMENT SERVICES</h5>
+                  <h5 className="box-title">PEOPLE ANALYTICS SOLUTIONS</h5>
                   <p>
-                    Excepteur sint occaecat cupidatat non proident, sunt in
-                    culpa qui officia deserunt mollit anim id est laborum
+                    People analytics is the practice of collecting and applying
+                    organizational, people, and talent data to improve critical
+                    business outcomes. It enables HR departments to develop
+                    data-driven insights to make decisions on talent, workforce
+                    processes and turn them into actionable insights to improve
+                    performance of an organization.
                   </p>
                 </div>
               </div>
@@ -409,19 +428,37 @@ function Services() {
                 data-auto="true"
               >
                 <div className="client">
-                  <img src="images/clients/3.png" alt="image" />
+                  <img src="images/clients/Bizloan logo 205x80.png" alt="image" />
                 </div>
                 <div className="client">
-                  <img src="images/clients/5.png" alt="image" />
+                  <img src="images/clients/expertons logo 205x80.png" alt="image" />
                 </div>
                 <div className="client">
-                  <img src="images/clients/3.png" alt="image" />
+                  <img src="images/clients/homefirst logo 205x80.png" alt="image" />
                 </div>
                 <div className="client">
-                  <img src="images/clients/5.png" alt="image" />
+                  <img src="images/clients/IndusInd Bank logo 205x80.png" alt="image" />
                 </div>
                 <div className="client">
-                  <img src="images/clients/3.png" alt="image" />
+                  <img src="images/clients/Interlynx logo 205x80.png" alt="image" />
+                </div>
+                <div className="client">
+                  <img src="images/clients/Iris-logo 205x80.png" alt="image" />
+                </div>
+                <div className="client">
+                  <img src="images/clients/Kotak Mahindra Bank logo 205x80.jpg" alt="image" />
+                </div>
+                <div className="client">
+                  <img src="images/clients/leasing IQ logo 205x80.png" alt="image" />
+                </div>
+                <div className="client">
+                  <img src="images/clients/toppr logo 205x80.png" alt="image" />
+                </div>
+                <div className="client">
+                  <img src="images/clients/univariety logo 205x80.png" alt="image" />
+                </div>
+                <div className="client">
+                  <img src="images/clients/zamit logo 205x80.png" alt="image" />
                 </div>
               </div>
               {/* /.flat-client */}
