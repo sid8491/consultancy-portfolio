@@ -1,10 +1,18 @@
 import React from "react";
-import { useForm, ValidationError } from '@formspree/react';
+import { useForm, ValidationError } from "@formspree/react";
 
 function Contact() {
-  const [state, handleSubmit] = useForm("xayvebnj");
+  const [state, handleSubmit] = useForm("xayvebnj", {
+    data: {
+      subject: 'ARS Contact Us',
+      pageTitle: function() {
+        // This function will be evaluated at submission time
+        return document.title;
+      }
+    }
+  });
   if (state.succeeded) {
-    return <p>Thanks for joining!</p>;
+    return <p>Thanks for contacting!</p>;
   }
   return (
     <div>
@@ -55,6 +63,11 @@ function Contact() {
                     onSubmit={handleSubmit}
                   >
                     <span className="flat-input">
+                      <ValidationError
+                        prefix="name"
+                        field="name"
+                        errors={state.errors}
+                      />
                       <input
                         name="name"
                         id="name"
@@ -62,13 +75,13 @@ function Contact() {
                         placeholder="Name*"
                         required="required"
                       />
-                      <ValidationError
-                        prefix="name"
-                        field="name"
-                        errors={state.errors}
-                      />
                     </span>
                     <span className="flat-input">
+                      <ValidationError
+                        prefix="email"
+                        field="email"
+                        errors={state.errors}
+                      />
                       <input
                         name="email"
                         id="email"
@@ -76,23 +89,18 @@ function Contact() {
                         placeholder="Email"
                         required="required"
                       />
-                      <ValidationError
-                        prefix="email"
-                        field="email"
-                        errors={state.errors}
-                      />
                     </span>
                     <span className="flat-input">
+                      <ValidationError
+                        prefix="message"
+                        field="message"
+                        errors={state.errors}
+                      />
                       <textarea
                         name="message"
                         placeholder="Messages"
                         required="required"
                         defaultValue={""}
-                      />
-                      <ValidationError
-                        prefix="message"
-                        field="message"
-                        errors={state.errors}
                       />
                     </span>
                     <span className="flat-input">
@@ -104,7 +112,7 @@ function Contact() {
                         title="Submit now"
                         disabled={state.submitting}
                       >
-                        send messages
+                        send message
                       </button>
                     </span>
                   </form>
