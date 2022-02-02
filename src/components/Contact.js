@@ -59,6 +59,7 @@ function Contact() {
                   <form
                     id="contactform"
                     className="contactform style4 clearfix"
+                    action="https://formspree.io/f/xayvebnj"
                     method="POST"
                     onSubmit={handleSubmit}
                   >
