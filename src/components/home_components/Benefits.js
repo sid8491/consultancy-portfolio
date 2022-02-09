@@ -17,10 +17,11 @@ function Benefits() {
                   </div>
                 </div>
                 <div className="box-content">
-                  <h5 className="box-title">STAFFING/HIRING SOLUTIONS</h5>
+                  <h5 className="box-title">Staffing / Hiring Solutions</h5>
                   <p>
-                    Sed ut perspiciatis unde omnis iste natus error sit
-                    voluptatem accusan doloremque laudantium
+                    We help provide qualified and trained resources ready to be
+                    onboarded, reducing the time taken to hire and loss of
+                    productivity and thereby saving money.
                   </p>
                 </div>
                 <div className="effecthover">
@@ -36,10 +37,11 @@ function Benefits() {
                   </div>
                 </div>
                 <div className="box-content">
-                  <h5 className="box-title">SOFTWARE DEVELOPMENT SOLUTIONS</h5>
+                  <h5 className="box-title">Recruitment Process Outsourcing</h5>
                   <p>
-                    Sed ut perspiciatis unde omnis iste natus error sit
-                    voluptatem accusan doloremque laudantium
+                    RPO is a form of business process outsourcing (BPO) where an
+                    employer transfers all or part of its recruitment processes
+                    to an external service provider.
                   </p>
                 </div>
                 <div className="effecthover">
@@ -55,10 +57,13 @@ function Benefits() {
                   </div>
                 </div>
                 <div className="box-content">
-                  <h5 className="box-title">PEOPLE ANALYTICS SOLUTIONS</h5>
+                  <h5 className="box-title">
+                    Career Transition / Outplacement
+                  </h5>
                   <p>
-                    Sed ut perspiciatis unde omnis iste natus error sit
-                    voluptatem accusan doloremque laudantium
+                    A service provided to a departing employee to assist with an
+                    effective and smooth transition to a new opportunity, or
+                    even retirement.
                   </p>
                 </div>
                 <div className="effecthover">
@@ -66,7 +71,6 @@ function Benefits() {
                 </div>
               </div>
             </li>
-            
           </ul>
           <div className="divider sh26" />
           <div className="row">
@@ -79,28 +83,30 @@ function Benefits() {
                   </div>
                 </div>
                 <div className="box-content">
-                  <h5 className="box-title">IT Services</h5>
+                  <h5 className="box-title">Market Intelligence</h5>
                   <p>
-                    Sed ut perspiciatis unde omnis iste natus error sit
-                    voluptatem accusan doloremque laudantium
+                    We enable organizations to take informed talent decisions.
+                    Offerings include Talent Mapping, Compensation Surveys &
+                    Independent Reference Checks.
                   </p>
                 </div>
               </div>
-              <div className="divider sh5" />
-              <div className="iconbox iconleft">
+              {/* <div className="divider sh5" /> */}
+              {/* <div className="iconbox iconleft">
                 <div className="box-header">
                   <div className="box-icon">
                     <i className="icon_building" />
                   </div>
                 </div>
                 <div className="box-content">
-                  <h5 className="box-title">Placement Services</h5>
+                  <h5 className="box-title">People Analytics Solutions</h5>
                   <p>
-                    Sed ut perspiciatis unde omnis iste natus error sit
-                    voluptatem accusan doloremque laudantium
+                    People analytics is the practice of collecting and applying
+                    organizational, people, and talent data to improve critical
+                    business outcomes.
                   </p>
                 </div>
-              </div>
+              </div> */}
             </div>
             <div className="col-lg-4">
               <div className="featured-iconbox">
@@ -116,15 +122,16 @@ function Benefits() {
                   </div>
                 </div>
                 <div className="box-content">
-                  <h5 className="box-title">Career Counselling</h5>
+                  <h5 className="box-title">People Analytics Solutions</h5>
                   <p>
-                    Sed ut perspiciatis unde omnis iste natus error sit
-                    voluptatem accusan doloremque laudantium
+                    People analytics is the practice of collecting and applying
+                    organizational, people, and talent data to improve critical
+                    business outcomes.
                   </p>
                 </div>
               </div>
-              <div className="divider sh5" />
-              <div className="iconbox iconleft">
+              {/* <div className="divider sh5" /> */}
+              {/* <div className="iconbox iconleft">
                 <div className="box-header">
                   <div className="box-icon">
                     <i className="icon_creditcard" />
@@ -137,7 +144,7 @@ function Benefits() {
                     voluptatem accusan doloremque laudantium
                   </p>
                 </div>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>

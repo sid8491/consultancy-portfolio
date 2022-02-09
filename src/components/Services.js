@@ -32,9 +32,9 @@ function Services() {
             <div className="col-lg-4">
               <div className="iconbox style3 box-shadow2">
                 <div className="box-header">
-                  <div className="box-icon">
+                  {/* <div className="box-icon">
                     <i className="ti-pie-chart" />
-                  </div>
+                  </div> */}
                 </div>
                 <div className="box-content">
                   <h5 className="box-title">
@@ -55,9 +55,9 @@ function Services() {
             <div className="col-lg-4">
               <div className="iconbox style3 box-shadow2">
                 <div className="box-header">
-                  <div className="box-icon">
+                  {/* <div className="box-icon">
                     <i className="ti-bar-chart" />
-                  </div>
+                  </div> */}
                 </div>
                 <div className="box-content">
                   <h5 className="box-title">
@@ -78,9 +78,9 @@ function Services() {
             <div className="col-lg-4">
               <div className="iconbox style3 box-shadow2">
                 <div className="box-header">
-                  <div className="box-icon">
+                  {/* <div className="box-icon">
                     <i className="ti-stack-overflow" />
-                  </div>
+                  </div> */}
                 </div>
                 <div className="box-content">
                   <h5 className="box-title">MARKET INTELLIGENCE</h5>
@@ -95,9 +95,9 @@ function Services() {
             <div className="col-lg-4">
               <div className="iconbox style3 box-shadow2">
                 <div className="box-header">
-                  <div className="box-icon">
+                  {/* <div className="box-icon">
                     <i className="ti-microphone" />
-                  </div>
+                  </div> */}
                 </div>
                 <div className="box-content">
                   <h5 className="box-title">PEOPLE ANALYTICS SOLUTIONS</h5>
@@ -115,9 +115,9 @@ function Services() {
             <div className="col-lg-4">
               <div className="iconbox style3 box-shadow2">
                 <div className="box-header">
-                  <div className="box-icon">
+                  {/* <div className="box-icon">
                     <i className="ti-stats-up" />
-                  </div>
+                  </div> */}
                 </div>
                 <div className="box-content">
                   <h5 className="box-title">CAREER COUNSELLING</h5>
@@ -131,9 +131,9 @@ function Services() {
             <div className="col-lg-4">
               <div className="iconbox style3 box-shadow2">
                 <div className="box-header">
-                  <div className="box-icon">
+                  {/* <div className="box-icon">
                     <i className="ti-bell" />
-                  </div>
+                  </div> */}
                 </div>
                 <div className="box-content">
                   <h5 className="box-title">RESEARCH &amp; DEVELOPMENT</h5>
@@ -147,9 +147,9 @@ function Services() {
             <div className="col-lg-4">
               <div className="iconbox style3 box-shadow2">
                 <div className="box-header">
-                  <div className="box-icon">
+                  {/* <div className="box-icon">
                     <i className="ti-github" />
-                  </div>
+                  </div> */}
                 </div>
                 <div className="box-content">
                   <h5 className="box-title">HEAD HUNTING</h5>
@@ -163,9 +163,9 @@ function Services() {
             <div className="col-lg-4">
               <div className="iconbox style3 box-shadow2">
                 <div className="box-header">
-                  <div className="box-icon">
+                  {/* <div className="box-icon">
                     <i className="ti-world" />
-                  </div>
+                  </div> */}
                 </div>
                 <div className="box-content">
                   <h5 className="box-title">INDUSTRY MAPPING</h5>
@@ -179,9 +179,9 @@ function Services() {
             <div className="col-lg-4">
               <div className="iconbox style3 box-shadow2">
                 <div className="box-header">
-                  <div className="box-icon">
+                  {/* <div className="box-icon">
                     <i className="ti-view-list-alt" />
-                  </div>
+                  </div> */}
                 </div>
                 <div className="box-content">
                   <h5 className="box-title">RESUME WRITING</h5>
