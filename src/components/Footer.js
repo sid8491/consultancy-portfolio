@@ -21,7 +21,7 @@ function Footer() {
                   </li>
                   <li>
                     <i className="fa fa-phone" />
-                    <a href="#">001-1234-56789</a>
+                    <a href="#">011-47019779</a>
                   </li>
                   <li>
                     <i className="fa fa-envelope" />

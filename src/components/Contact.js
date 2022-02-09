@@ -153,7 +153,7 @@ function Contact() {
                 <ul>
                   <li>A2B/49A, Paschim Vihar, Delhi</li>
                   <li>Email: info@arsps.net</li>
-                  <li>Phone: 001-1234-56789</li>
+                  <li>Phone: 011-47019779</li>
                 </ul>
               </div>
             </div>
@@ -171,7 +171,7 @@ function Contact() {
               <div className="info-box text-center">
                 <h3>Something 2</h3>
                 <ul>
-                  <li>001-1234-56789</li>
+                  <li>011-47019779</li>
                   <li>Email: info@greenorganic.com</li>
                   <li>Phone: 258-556-189</li>
                 </ul>

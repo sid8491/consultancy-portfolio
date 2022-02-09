@@ -71,7 +71,7 @@ function Slider() {
                 className="rev-slidebg"
                 data-no-retina
               />
-              <div className="section-overlay style2" />
+              {/* <div className="section-overlay style2" /> */}
               {/* LAYERS */}
               {/* LAYER NR. 12 */}
               <div

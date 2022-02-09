@@ -4,7 +4,7 @@ function Services() {
   return (
     <div>
       <div
-        style={{ height: "150px", backgroundColor: "rgb(63, 94, 128)" }}
+        style={{ height: "150px", backgroundColor: "#0d2034" }}
       ></div>
       <section className="flat-row section-iconbox padding2 bg-section">
         <div className="container">
