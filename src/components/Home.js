@@ -13,7 +13,7 @@ function Home() {
       <Benefits />
       <Statistics />
       <Testimonials />
-      <Callback />
+      {/* <Callback /> */}
     </div>
   );
 }

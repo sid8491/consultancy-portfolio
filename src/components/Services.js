@@ -3,9 +3,7 @@ import React from "react";
 function Services() {
   return (
     <div>
-      <div
-        style={{ height: "150px", backgroundColor: "#0d2034" }}
-      ></div>
+      <div style={{ height: "150px", backgroundColor: "#0d2034" }}></div>
       <section className="flat-row section-iconbox padding2 bg-section">
         <div className="container">
           <div className="row">
@@ -37,17 +35,11 @@ function Services() {
                   </div> */}
                 </div>
                 <div className="box-content">
-                  <h5 className="box-title">
-                    Recruitment Process Outsourcing (RPO)
-                  </h5>
+                  <h5 className="box-title">STAFFING SERVICES</h5>
                   <p>
-                    RPO is a form of business process outsourcing (BPO) where an
-                    employer transfers all or part of its recruitment processes
-                    to an external service provider. An rpo provider can provide
-                    its own or may assume the company’s staff, technology,
-                    methodologies and reporting. We act as an extended arm of
-                    our clients and help manage their end to end recruitment
-                    needs.
+                    We bring together job seekers and potential employers for
+                    the purpose of establishing a permanent employment
+                    relationship.
                   </p>
                 </div>
               </div>
@@ -60,17 +52,11 @@ function Services() {
                   </div> */}
                 </div>
                 <div className="box-content">
-                  <h5 className="box-title">
-                    CAREER TRANSITION, OR OUTPLACEMENT
-                  </h5>
+                  <h5 className="box-title">C2H</h5>
                   <p>
-                    A service provided to a departing employee to assist with an
-                    effective and smooth transition to a new opportunity, or
-                    even retirement. Essentially, it is a support service
-                    provided by an organization, to support individuals who are
-                    exiting the business in order to help these former employees
-                    transition to new jobs and help them re-orient themselves in
-                    the job market.
+                    The employee is placed in a short-term position for a set
+                    period of time, with the possibility of being hired
+                    full-time when the contract ends
                   </p>
                 </div>
               </div>
@@ -83,11 +69,11 @@ function Services() {
                   </div> */}
                 </div>
                 <div className="box-content">
-                  <h5 className="box-title">MARKET INTELLIGENCE</h5>
+                  <h5 className="box-title">INDUSTRY MAPPING</h5>
                   <p>
-                    We enable organizations to take informed talent decisions.
-                    Offerings include Talent Mapping, Compensation Surveys &
-                    Independent Reference Checks.
+                    Process mapping is an activity of modeling common business
+                    functions, to understand how they work and to identify ways
+                    to improve them.
                   </p>
                 </div>
               </div>
@@ -100,14 +86,11 @@ function Services() {
                   </div> */}
                 </div>
                 <div className="box-content">
-                  <h5 className="box-title">PEOPLE ANALYTICS SOLUTIONS</h5>
+                  <h5 className="box-title">TEMPORARY-TO-HIRE</h5>
                   <p>
-                    People analytics is the practice of collecting and applying
-                    organizational, people, and talent data to improve critical
-                    business outcomes. It enables HR departments to develop
-                    data-driven insights to make decisions on talent, workforce
-                    processes and turn them into actionable insights to improve
-                    performance of an organization.
+                    Our staffing agency employee works for a client during a
+                    trial period during which both the employee and the client
+                    consider establishing a permanent employment relationship.
                   </p>
                 </div>
               </div>
@@ -120,10 +103,11 @@ function Services() {
                   </div> */}
                 </div>
                 <div className="box-content">
-                  <h5 className="box-title">CAREER COUNSELLING</h5>
+                  <h5 className="box-title">PLACEMENT SERVICES</h5>
                   <p>
-                    Excepteur sint occaecat cupidatat non proident, sunt in
-                    culpa qui officia deserunt mollit anim id est laborum
+                    Placement service means a service offered or advertised by a
+                    private career consultants/ agency for the purpose of
+                    assisting the student in obtaining employment.
                   </p>
                 </div>
               </div>
@@ -138,8 +122,10 @@ function Services() {
                 <div className="box-content">
                   <h5 className="box-title">RESEARCH &amp; DEVELOPMENT</h5>
                   <p>
-                    Excepteur sint occaecat cupidatat non proident, sunt in
-                    culpa qui officia deserunt mollit anim id est laborum
+                    R&amp;D – is the process by which a company works to obtain
+                    new knowledge that it might use to create new technology,
+                    products, services, or systems that it will either use or
+                    sell.
                   </p>
                 </div>
               </div>
@@ -154,8 +140,11 @@ function Services() {
                 <div className="box-content">
                   <h5 className="box-title">HEAD HUNTING</h5>
                   <p>
-                    Excepteur sint occaecat cupidatat non proident, sunt in
-                    culpa qui officia deserunt mollit anim id est laborum
+                    Headhunting is a process of recruitment of a prospective
+                    employee, who is working elsewhere and who has a relevant
+                    work experience for a particular job profile. Organizations
+                    in many cases look for people with good amount of experience
+                    or professional competency to join the organization.
                   </p>
                 </div>
               </div>
@@ -168,10 +157,14 @@ function Services() {
                   </div> */}
                 </div>
                 <div className="box-content">
-                  <h5 className="box-title">INDUSTRY MAPPING</h5>
+                  <h5 className="box-title">IT SERVICES</h5>
                   <p>
-                    Excepteur sint occaecat cupidatat non proident, sunt in
-                    culpa qui officia deserunt mollit anim id est laborum
+                    Any services relating to the IT Systems or to other
+                    aspect of the company's or any of the subsidiaries data
+                    processing or data transfer requirements, including
+                    facilities management, bureau services, hardware
+                    maintenance, software development or support, consultancy,
+                    source code deposit, recovery and network services.
                   </p>
                 </div>
               </div>
@@ -186,8 +179,11 @@ function Services() {
                 <div className="box-content">
                   <h5 className="box-title">RESUME WRITING</h5>
                   <p>
-                    Excepteur sint occaecat cupidatat non proident, sunt in
-                    culpa qui officia deserunt mollit anim id est laborum
+                    A resume is to give your potential employer a feel for your
+                    past experience and skills. Remember you are trying to sell
+                    yourself, so emphasize your strengths. Most employers look
+                    for a steady job history and positive patterns of
+                    progression (i.e. increased responsibility, promotions).
                   </p>
                 </div>
               </div>
@@ -428,34 +424,58 @@ function Services() {
                 data-auto="true"
               >
                 <div className="client">
-                  <img src="images/clients/Bizloan logo 205x80.png" alt="image" />
+                  <img
+                    src="images/clients/Bizloan logo 205x80.png"
+                    alt="image"
+                  />
                 </div>
                 <div className="client">
-                  <img src="images/clients/expertons logo 205x80.png" alt="image" />
+                  <img
+                    src="images/clients/expertons logo 205x80.png"
+                    alt="image"
+                  />
                 </div>
                 <div className="client">
-                  <img src="images/clients/homefirst logo 205x80.png" alt="image" />
+                  <img
+                    src="images/clients/homefirst logo 205x80.png"
+                    alt="image"
+                  />
                 </div>
                 <div className="client">
-                  <img src="images/clients/IndusInd Bank logo 205x80.png" alt="image" />
+                  <img
+                    src="images/clients/IndusInd Bank logo 205x80.png"
+                    alt="image"
+                  />
                 </div>
                 <div className="client">
-                  <img src="images/clients/Interlynx logo 205x80.png" alt="image" />
+                  <img
+                    src="images/clients/Interlynx logo 205x80.png"
+                    alt="image"
+                  />
                 </div>
                 <div className="client">
                   <img src="images/clients/Iris-logo 205x80.png" alt="image" />
                 </div>
                 <div className="client">
-                  <img src="images/clients/Kotak Mahindra Bank logo 205x80.jpg" alt="image" />
+                  <img
+                    src="images/clients/Kotak Mahindra Bank logo 205x80.jpg"
+                    alt="image"
+                  />
                 </div>
                 <div className="client">
-                  <img src="images/clients/leasing IQ logo 205x80.png" alt="image" />
+                  <img
+                    src="images/clients/leasing IQ logo 205x80.png"
+                    alt="image"
+                  />
                 </div>
                 <div className="client">
                   <img src="images/clients/toppr logo 205x80.png" alt="image" />
                 </div>
                 <div className="client">
-                  <img src="images/clients/univariety logo 205x80.png" alt="image" />
+                  <img
+                    src="images/clients/univariety logo 205x80.png"
+                    alt="image"
+                  />
                 </div>
                 <div className="client">
                   <img src="images/clients/zamit logo 205x80.png" alt="image" />

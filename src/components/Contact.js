@@ -17,7 +17,7 @@ function Contact() {
   return (
     <div>
       <div
-        style={{ height: "150px", backgroundColor: "rgb(63, 94, 128)" }}
+        style={{ height: "150px", backgroundColor: "#0d2034" }}
       ></div>
       <section className="flat-row page-contact">
         <div className="container">
