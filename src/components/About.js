@@ -20,7 +20,7 @@ function About() {
               established in 2015 serving PAN India, with the experienced
               technical team to serve excellence in the environmental
               consultancy space and believe in pursuing business through{" "}
-              <b>TRUST</b>,<b>SUSTAINABLE</b> and <b>INNOVATION</b>.
+              <b>TRUST</b>, <b>SUSTAINABLE</b> and <b>INNOVATION</b>.
             </div>
             <div className="sub-title">
               We are committed to helping organizations’ to find best suitable
@@ -31,7 +31,7 @@ function About() {
               so on...
             </div>
           </div>
-          <div className="about-counter">
+          {/* <div className="about-counter">
             <div className="flat-counter float-left color-another text-center">
               <div className="content-counter float-left">
                 <div className="icon-count">
@@ -48,7 +48,6 @@ function About() {
                 <div className="name-count">Consultants</div>
               </div>
             </div>
-            {/* /.flat-counter */}
             <div className="flat-counter color-another float-left text-center">
               <div className="content-counter float-left">
                 <div className="icon-count">
@@ -65,7 +64,6 @@ function About() {
                 <div className="name-count">Awards Winning</div>
               </div>
             </div>
-            {/* /.flat-counter */}
             <div className="flat-counter color-another float-left text-center">
               <div className="content-counter">
                 <div className="icon-count">
@@ -82,8 +80,7 @@ function About() {
                 <div className="name-count">Satisfied Customers</div>
               </div>
             </div>
-            {/* /.flat-counter */}
-          </div>
+          </div> */}
         </div>
       </section>
       {/* <br /> <br /> */}

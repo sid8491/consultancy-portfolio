@@ -148,6 +148,16 @@ function Contact() {
           </div>
           <div className="row">
             <div className="col-lg-4">
+              {/* <div className="info-box text-center">
+                <h3>Address</h3>
+                <ul>
+                  <li>A2B/49A, Paschim Vihar, Delhi</li>
+                  <li>Email: info@arsps.net</li>
+                  <li>Phone: 011-47019779</li>
+                </ul>
+              </div> */}
+            </div>
+            <div className="col-lg-4">
               <div className="info-box text-center">
                 <h3>Address</h3>
                 <ul>
@@ -158,24 +168,14 @@ function Contact() {
               </div>
             </div>
             <div className="col-lg-4">
-              <div className="info-box text-center">
-                <h3>Something 1</h3>
-                <ul>
-                  <li>Line 1</li>
-                  <li>Email: inf o@greenorganic.com</li>
-                  <li>Phone: 258-556-189</li>
-                </ul>
-              </div>
-            </div>
-            <div className="col-lg-4">
-              <div className="info-box text-center">
+              {/* <div className="info-box text-center">
                 <h3>Something 2</h3>
                 <ul>
                   <li>011-47019779</li>
                   <li>Email: info@greenorganic.com</li>
                   <li>Phone: 258-556-189</li>
                 </ul>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
