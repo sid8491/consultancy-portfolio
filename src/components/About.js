@@ -10,7 +10,7 @@ function About() {
         <div id="blance1" className="featured-aboutus float-left">
           <img src="images/services/about.jpg" alt="image" />
         </div>
-        <div id="blance2" className="info-aboutus float-left">
+        <div id="" className="info-aboutus float-left">
           <div className="title-section style2 ">
             <h1 className="title">
               <span>We advise</span> you, you call the right decision!
