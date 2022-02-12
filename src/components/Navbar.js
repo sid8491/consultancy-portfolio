@@ -40,22 +40,22 @@ function Navbar() {
                   </ul> */}
                   <ul className="social-links color-white float-right margin-left25 margin-top14">
                     <li>
-                      <a href="https://www.facebook.com">
+                      <a href="https://www.facebook.com" target="_blank">
                         <i className="fa fa-facebook" />
                       </a>
                     </li>
                     <li>
-                      <a href="https://twitter.com/ars_consultancy/">
+                      <a href="https://twitter.com/ars_consultancy/" target="_blank">
                         <i className="fa fa-twitter" />
                       </a>
                     </li>
                     <li>
-                      <a href="https://www.instagram.com/arsconsultancy2015/">
+                      <a href="https://www.instagram.com/arsconsultancy2015/" target="_blank">
                         <i className="fa fa-instagram" />
                       </a>
                     </li>
                     <li>
-                      <a href="https://www.linkedin.com/in/ars-process-solution-and-consultancy/">
+                      <a href="https://www.linkedin.com/in/ars-process-solution-and-consultancy/" target="_blank">
                         <i className="fa fa-linkedin " />
                       </a>
                     </li>
