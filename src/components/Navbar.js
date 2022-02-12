@@ -45,17 +45,17 @@ function Navbar() {
                       </a>
                     </li>
                     <li>
-                      <a href="https://www.twitter.com">
+                      <a href="https://twitter.com/ars_consultancy/">
                         <i className="fa fa-twitter" />
                       </a>
                     </li>
                     <li>
-                      <a href="https://www.instagram.com">
+                      <a href="https://www.instagram.com/arsconsultancy2015/">
                         <i className="fa fa-instagram" />
                       </a>
                     </li>
                     <li>
-                      <a href="https://www.linkedin.com">
+                      <a href="https://www.linkedin.com/in/ars-process-solution-and-consultancy/">
                         <i className="fa fa-linkedin " />
                       </a>
                     </li>
