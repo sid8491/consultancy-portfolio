@@ -27,16 +27,23 @@ function Testimonials() {
                       <div className="testimonials style3 text-center">
                         <div className="message">
                           <blockquote className="whisper">
-                            "We love the approachable format, and the fact that
-                            they chose to feature customers that users can
-                            really relate to.Each client story module links to
-                            the client's website, Facebook page, and app in both
-                            the Android and Apple app stores and sets people up
-                            for success."
+                            "We were in a rapid growth phase in our company and
+                            needed to hire rapidly but control costs.Over the
+                            years I have consistently received high caliber
+                            candidates that are not only skilled, but also a
+                            cultural fit. ARS is one of the best and most
+                            trustworthy search agencies I have worked with.One
+                            of ARS strengths was building strong relationships
+                            with their candidates and with their clients. I
+                            would highly recommend ARS."
                           </blockquote>
                         </div>
                         <div className="avatar">
-                          <span className="name">Shaya Hill</span>
+                          <span className="name">
+                            Rahul Saxena
+                            <br />
+                            Iris
+                          </span>
                           <br />
                           <div className="start">
                             <i className="fa fa-star" /> &nbsp;
@@ -45,7 +52,9 @@ function Testimonials() {
                             <i className="fa fa-star" /> &nbsp;
                             <i className="fa fa-star" /> &nbsp;
                           </div>
-                          <span className="position">Tax Advice</span>
+                          <span className="position">
+                            Senior Talent Acquisition Specialist
+                          </span>
                         </div>
                       </div>
                     </li>
@@ -53,16 +62,20 @@ function Testimonials() {
                       <div className="testimonials style3 text-center">
                         <div className="message">
                           <blockquote className="whisper">
-                            " We worked with Consuloan. Our representative was
-                            very knowledgeable and helpful. Consuloan made a
-                            number of suggestions to help improve our systems.
-                            Consuloan explained how things work and why it would
-                            help. We are pleased with the result and we
-                            definitely highly recommend Consuloan."
+                            "Our Association with ARS goes back more than a year
+                            and a half. The core strength of this sustained
+                            relationship, has been ARS’s ability to gain
+                            contextual insights at the business level at Bizloan
+                            Pvt Ltd and provide the best Talent fit across
+                            varied and diverse requirements"
                           </blockquote>
                         </div>
                         <div className="avatar">
-                          <span className="name">Alex Poole</span>
+                          <span className="name">
+                            Amal Govil
+                            <br />
+                            Biz Loan
+                          </span>
                           <br />
                           <div className="start">
                             <i className="fa fa-star" /> &nbsp;
@@ -71,7 +84,9 @@ function Testimonials() {
                             <i className="fa fa-star" /> &nbsp;
                             <i className="fa fa-star" /> &nbsp;
                           </div>
-                          <span className="position">CEO DeerCreative</span>
+                          <span className="position">
+                            SVP - HR & Administration
+                          </span>
                         </div>
                       </div>
                     </li>
@@ -79,16 +94,17 @@ function Testimonials() {
                       <div className="testimonials style3 text-center">
                         <div className="message">
                           <blockquote className="whisper">
-                            " Even though I am a seasoned business owner myself,
-                            I am sure that there’s always room for growth,
-                            inspiration, and new ideas.It's has provided a
-                            common language that is gaining popularity in the
-                            workplace as it creates new learning and sets people
-                            up for success."
+                            "I have employed many candidates through ARS. They
+                            are very detail oriented and I appreciate their
+                            commitment towards the work and TAT. They ensure
+                            that the candidate sourcing process is a smooth
+                            experience for the organization as well as the
+                            candidates. Appreciate the effort that each of their
+                            recruiters put in. A very good experience overall."
                           </blockquote>
                         </div>
                         <div className="avatar">
-                          <span className="name">Anthony Jones</span>
+                          <span className="name">Srijata Ghosal<br />Indusind Bank</span>
                           <br />
                           <div className="start">
                             <i className="fa fa-star" /> &nbsp;
@@ -97,10 +113,11 @@ function Testimonials() {
                             <i className="fa fa-star" /> &nbsp;
                             <i className="fa fa-star" /> &nbsp;
                           </div>
-                          <span className="position">Business Planner</span>
+                          <span className="position">Regional Resource Manager - South 1</span>
                         </div>
                       </div>
                     </li>
+                    
                   </ul>
                 </div>
                 <div id="testimonial-carousel">
