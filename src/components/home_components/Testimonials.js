@@ -58,6 +58,7 @@ function Testimonials() {
                         </div>
                       </div>
                     </li>
+
                     <li>
                       <div className="testimonials style3 text-center">
                         <div className="message">
@@ -104,7 +105,11 @@ function Testimonials() {
                           </blockquote>
                         </div>
                         <div className="avatar">
-                          <span className="name">Srijata Ghosal<br />Indusind Bank</span>
+                          <span className="name">
+                            Srijata Ghosal
+                            <br />
+                            Indusind Bank
+                          </span>
                           <br />
                           <div className="start">
                             <i className="fa fa-star" /> &nbsp;
@@ -113,11 +118,12 @@ function Testimonials() {
                             <i className="fa fa-star" /> &nbsp;
                             <i className="fa fa-star" /> &nbsp;
                           </div>
-                          <span className="position">Regional Resource Manager - South 1</span>
+                          <span className="position">
+                            Regional Resource Manager - South 1
+                          </span>
                         </div>
                       </div>
                     </li>
-                    
                   </ul>
                 </div>
                 <div id="testimonial-carousel">

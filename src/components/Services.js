@@ -160,12 +160,12 @@ function Services() {
                 <div className="box-content">
                   <h5 className="box-title">IT SERVICES</h5>
                   <p>
-                    Any services relating to the IT Systems or to other
-                    aspect of the company's or any of the subsidiaries data
-                    processing or data transfer requirements, including
-                    facilities management, bureau services, hardware
-                    maintenance, software development or support, consultancy,
-                    source code deposit, recovery and network services.
+                    Any services relating to the IT Systems or to other aspect
+                    of the company's or any of the subsidiaries data processing
+                    or data transfer requirements, including facilities
+                    management, bureau services, hardware maintenance, software
+                    development or support, consultancy, source code deposit,
+                    recovery and network services.
                   </p>
                 </div>
               </div>
@@ -202,11 +202,11 @@ function Services() {
             <div className="col-md-12">
               <div className="title-section style2 color-white text-center">
                 <h1 className="title">
-                  We advise you, you call <span>the right</span> decision!
+                <span>Proven</span> methodology, <span>profound </span>impact and<br />
+                  <span>sustainable </span>results.
                 </h1>
                 <div className="sub-title">
-                  We help entrepreneurs get their act together before they talk
-                  to investors.
+                  
                 </div>
               </div>
             </div>
@@ -226,9 +226,9 @@ function Services() {
                     data-speed={2000}
                     data-waypoint-active="yes"
                   >
-                    90
+                    50+
                   </div>
-                  <div className="name-count">Companies consulted</div>
+                  <div className="name-count">Clients</div>
                 </div>
               </div>
               {/* /.flat-counter */}
@@ -245,7 +245,7 @@ function Services() {
                     data-speed={2000}
                     data-waypoint-active="yes"
                   >
-                    120
+                    25+
                   </div>
                   <div className="name-count">Consultants</div>
                 </div>
@@ -264,9 +264,9 @@ function Services() {
                     data-speed={2000}
                     data-waypoint-active="yes"
                   >
-                    50
+                    1000
                   </div>
-                  <div className="name-count">Awards Winning</div>
+                  <div className="name-count">Candidates Placed</div>
                 </div>
               </div>
               {/* /.flat-counter */}
@@ -283,12 +283,11 @@ function Services() {
                     data-speed={2000}
                     data-waypoint-active="yes"
                   >
-                    240
+                    10
                   </div>
-                  <div className="name-count">Satisfied Customers</div>
+                  <div className="name-count">Years of Experience</div>
                 </div>
               </div>
-              {/* /.flat-counter */}
             </div>
           </div>
         </div>

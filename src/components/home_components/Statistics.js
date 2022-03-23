@@ -10,7 +10,7 @@ function Statistics() {
             <div className="col-md-12">
               <div className="title-section style2 color-white titlesize48">
                 <h1 className="title">
-                  Are you an <span>innovation leader</span>
+                Pragmatic, Professional, Progressive <br /><span>HR services</span>
                 </h1>
                 <div className="sub-title style2 linehight30">
                   Our research shows that great leaders prioritise innovation to

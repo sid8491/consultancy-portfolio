@@ -803,9 +803,11 @@
                  $(this).children('#testimonial-slider').flexslider({
                      animation: "slide",
                      controlNav: false,
-                     animationLoop: false,
-                     slideshow: false,
+                     pauseOnHover: true, 
+                     animationLoop: true,
+                     slideshow: true,
                      directionNav: false,
+                     slideshowSpeed: 2500,
                      sync: $(this).children('#testimonial-carousel'),
                  });
              });
