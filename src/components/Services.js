@@ -215,18 +215,18 @@ function Services() {
           {/* /.row */}
           <div className="row">
             <div className="col-lg-3 col-sm-6">
-              <div className="flat-counter text-center">
+              <div className="flat-counter style2 before text-center">
                 <div className="content-counter">
                   <div className="icon-count">
                     <i className="ti-pie-chart" />
                   </div>
                   <div
                     className="numb-count"
-                    data-to={90}
+                    data-to={50}
                     data-speed={2000}
                     data-waypoint-active="yes"
                   >
-                    50+
+                    50
                   </div>
                   <div className="name-count">Clients</div>
                 </div>
@@ -234,18 +234,18 @@ function Services() {
               {/* /.flat-counter */}
             </div>
             <div className="col-lg-3 col-sm-6">
-              <div className="flat-counter text-center">
+              <div className="flat-counter style2 before text-center">
                 <div className="content-counter">
                   <div className="icon-count">
                     <i className="ti-headphone-alt" />
                   </div>
                   <div
                     className="numb-count"
-                    data-to={120}
+                    data-to={25}
                     data-speed={2000}
                     data-waypoint-active="yes"
                   >
-                    25+
+                    25
                   </div>
                   <div className="name-count">Consultants</div>
                 </div>
@@ -253,14 +253,14 @@ function Services() {
               {/* /.flat-counter */}
             </div>
             <div className="col-lg-3 col-sm-6">
-              <div className="flat-counter text-center">
+              <div className="flat-counter style2 text-center">
                 <div className="content-counter">
                   <div className="icon-count">
                     <i className="ti-bookmark-alt" />
                   </div>
                   <div
                     className="numb-count"
-                    data-to={50}
+                    data-to={1000}
                     data-speed={2000}
                     data-waypoint-active="yes"
                   >
@@ -272,14 +272,14 @@ function Services() {
               {/* /.flat-counter */}
             </div>
             <div className="col-lg-3 col-sm-6">
-              <div className="flat-counter text-center">
+              <div className="flat-counter  style2  text-center">
                 <div className="content-counter">
                   <div className="icon-count">
                     <i className="ti-heart-broken" />
                   </div>
                   <div
                     className="numb-count"
-                    data-to={240}
+                    data-to={10}
                     data-speed={2000}
                     data-waypoint-active="yes"
                   >

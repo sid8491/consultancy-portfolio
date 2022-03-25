@@ -25,7 +25,7 @@ function Contact() {
             <div className="row">
               <div className="col-lg-5">
                 <h1>How can we help you?</h1>
-                <div className="list-author">
+                {/* <div className="list-author">
                   <div className="info-author clearfix">
                     <div className="featured-author float-left">
                       <img src="images/team/c1.jpg" alt="image" />
@@ -52,10 +52,10 @@ function Contact() {
                       </ul>
                     </div>
                   </div>
-                </div>
+                </div> */}
               </div>
-              <div className="col-lg-7">
-                <div className="margin-left_12">
+              
+                <div >
                   <form
                     id="contactform"
                     className="contactform style4 clearfix"
@@ -118,7 +118,6 @@ function Contact() {
                     </span>
                   </form>
                 </div>
-              </div>
             </div>
           </div>
           <div className="wrap-infobox"></div>

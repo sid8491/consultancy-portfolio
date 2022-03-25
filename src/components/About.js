@@ -92,7 +92,7 @@ function About() {
               <div className="title-section style3 left">
                 <h1 className="title">Our MISSION</h1>
               </div>
-              <p>
+              <p style={{ fontSize: 18 }} >
                 Absolute Resource Solutions (ARS) mission is to provide complete
                 workforce solutions across industries and level.
               </p>
@@ -116,7 +116,7 @@ function About() {
               <div className="title-section style3 left">
                 <h1 className="title">Our VISION</h1>
               </div>
-              <p>
+              <p style={{ fontSize: 18 }}>
                 Our vision is to collaborate with customers in providing end to
                 end business solutions through specialized across business
                 verticals and internalize service quality using innovative

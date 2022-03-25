@@ -25,17 +25,17 @@ function Statistics() {
           {/* /.row */}
           <div className="row">
             <div className="col-lg-2 col-sm-6">
-              <div className="flat-counter style2 padding-another">
+              <div className="flat-counter style2 before">
                 <div className="content-counter">
                   <div
                     className="numb-count"
-                    data-to={10}
+                    data-to={50}
                     data-speed={2000}
                     data-waypoint-active="yes"
                   >
-                    10
+                    50 
                   </div>
-                  <div className="name-count">Years of Experience</div>
+                  <div className="name-count">Clients</div>
                 </div>
               </div>
               {/* /.flat-counter */}
@@ -45,13 +45,13 @@ function Statistics() {
                 <div className="content-counter">
                   <div
                     className="numb-count"
-                    data-to={68}
+                    data-to={25}
                     data-speed={2000}
                     data-waypoint-active="yes"
                   >
-                    68
+                    25
                   </div>
-                  <div className="name-count">Happy Customers</div>
+                  <div className="name-count">Consultants</div>
                 </div>
               </div>
               {/* /.flat-counter */}
@@ -73,17 +73,17 @@ function Statistics() {
              
             </div> */}
             <div className="col-lg-2 col-sm-6">
-              <div className="flat-counter style2 before percent">
+              <div className="flat-counter style2 ">
                 <div className="content-counter">
                   <div
                     className="numb-count"
-                    data-to={100}
+                    data-to={1000}
                     data-speed={2000}
                     data-waypoint-active="yes"
                   >
-                    100
+                    1000
                   </div>
-                  <div className="name-count">Satisfied Customers</div>
+                  <div className="name-count">Candidates Placed</div>
                 </div>
               </div>
               {/* /.flat-counter */}
