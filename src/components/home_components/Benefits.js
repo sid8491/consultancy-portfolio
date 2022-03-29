@@ -57,13 +57,11 @@ function Benefits() {
                   </div>
                 </div>
                 <div className="box-content">
-                  <h5 className="box-title">
-                    Career Transition / Outplacement
-                  </h5>
+                  <h5 className="box-title">Lateral Recruitment</h5>
                   <p>
-                    A service provided to a departing employee to assist with an
-                    effective and smooth transition to a new opportunity, or
-                    even retirement.
+                    Lateral recruitment is the process of hiring an "expert" for
+                    the job that needs to be filled. In some cases, it is termed
+                    as a specialized hiring.
                   </p>
                 </div>
                 <div className="effecthover">
@@ -83,11 +81,11 @@ function Benefits() {
                   </div>
                 </div>
                 <div className="box-content">
-                  <h5 className="box-title">Market Intelligence</h5>
+                  <h5 className="box-title">Payroll Management</h5>
                   <p>
-                    We enable organizations to take informed talent decisions.
-                    Offerings include Talent Mapping, Compensation Surveys &
-                    Independent Reference Checks.
+                    Payroll is an important document used by organizations and
+                    companies to carry out day-to-day staff Payroll Management
+                    activities.
                   </p>
                 </div>
               </div>
@@ -122,11 +120,11 @@ function Benefits() {
                   </div>
                 </div>
                 <div className="box-content">
-                  <h5 className="box-title">People Analytics Solutions</h5>
+                  <h5 className="box-title">An end-to-end recruitment</h5>
                   <p>
-                    People analytics is the practice of collecting and applying
-                    organizational, people, and talent data to improve critical
-                    business outcomes.
+                    End to End Recruitment process, encompass the complete
+                    recruiting process from forming a plan to executing the
+                    plan.
                   </p>
                 </div>
               </div>

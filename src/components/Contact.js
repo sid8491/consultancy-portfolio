@@ -4,26 +4,24 @@ import { useForm, ValidationError } from "@formspree/react";
 function Contact() {
   const [state, handleSubmit] = useForm("xayvebnj", {
     data: {
-      subject: 'ARS Contact Us',
-      pageTitle: function() {
+      subject: "ARS Contact Us",
+      pageTitle: function () {
         // This function will be evaluated at submission time
         return document.title;
-      }
-    }
+      },
+    },
   });
   if (state.succeeded) {
     return <p>Thanks for contacting!</p>;
   }
   return (
     <div>
-      <div
-        style={{ height: "150px", backgroundColor: "#0d2034" }}
-      ></div>
+      <div style={{ height: "150px", backgroundColor: "#0d2034" }}></div>
       <section className="flat-row page-contact">
         <div className="container">
           <div className="wrap-formcontact">
             <div className="row">
-              <div className="col-lg-5">
+              <div className="col-lg-6">
                 <h1>How can we help you?</h1>
                 {/* <div className="list-author">
                   <div className="info-author clearfix">
@@ -53,9 +51,9 @@ function Contact() {
                     </div>
                   </div>
                 </div> */}
-              </div>
-              
-                <div >
+                {/* </div> */}
+
+                <div>
                   <form
                     id="contactform"
                     className="contactform style4 clearfix"
@@ -118,6 +116,21 @@ function Contact() {
                     </span>
                   </form>
                 </div>
+              </div>
+              <div className="col-lg-6">
+                <h1>Internal Hiring for ARS!</h1>
+                <p>We are looking for dynamic professionals.</p>
+                <p>Interested candidates can send us their resume at info@arsps.net</p>
+                <br />
+                <b>Perks: </b>
+                <ul >
+                  <li>Remote work place</li>
+                  <li>Best work process</li>
+                  <li>Best training process</li>
+                  <li>Good environment</li>
+                  <li>Lucrative Incentive Structure</li>
+                </ul>
+              </div>
             </div>
           </div>
           <div className="wrap-infobox"></div>
@@ -160,9 +173,11 @@ function Contact() {
               <div className="info-box text-center">
                 <h3>Address</h3>
                 <ul>
-                  <li>A2B/49A, Paschim Vihar, Delhi</li>
-                  <li>Email: info@arsps.net</li>
-                  <li>Phone: 011-47019779</li>
+                  <li style={{ fontSize: "15px" }}>
+                    A2B/49A, Paschim Vihar, Delhi
+                  </li>
+                  <li style={{ fontSize: "15px" }}>Email: info@arsps.net</li>
+                  <li style={{ fontSize: "15px" }}>Phone: 011-47019779</li>
                 </ul>
               </div>
             </div>
