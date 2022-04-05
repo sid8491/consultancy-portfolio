@@ -126,7 +126,7 @@ function Slider() {
                 Solving Corporate challenges - Absolutely
               </div>
               <a
-                href="#"
+                href="/about-us"
                 target="_self"
                 className="tp-caption flat-button color-white text-center"
                 data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":2000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'
@@ -143,7 +143,7 @@ function Slider() {
               </a>
               {/* END LAYER LINK */}
               <a
-                href="#"
+                href="/services"
                 target="_self"
                 className="tp-caption flat-button style3 text-center"
                 data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":2000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'

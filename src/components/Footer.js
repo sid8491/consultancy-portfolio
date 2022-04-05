@@ -9,7 +9,7 @@ function Footer() {
             <div className="col-lg-3 col-sm-6 reponsive-mb30">
               <div className="widget-logo">
                 <div id="logo-footer" className="logo">
-                  <a href="index.html" rel="home">
+                  <a href="/" rel="home">
                     <img src="images/ars_logo.jpg" alt="image" />
                   </a>
                 </div>
