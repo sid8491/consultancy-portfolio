@@ -10,12 +10,12 @@ function Testimonials() {
               <div className="title-section text-center">
                 <div className="symbol">​‌“</div>
                 <h1 className="cd-headline clip is-full-width">
-                  <span>2000+</span>
-                  <span className="cd-words-wrapper">
+                  {/* <span>Testimonials</span> */}
+                  {/* <span className="cd-words-wrapper">
                     <b className="is-visible"> Happy Client</b>
                     <b>Believe Client</b>
                     <b>Choice Client</b>
-                  </span>
+                  </span> */}
                 </h1>
               </div>
             </div>

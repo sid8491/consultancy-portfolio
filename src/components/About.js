@@ -13,7 +13,8 @@ function About() {
         <div id="" className="info-aboutus float-left">
           <div className="title-section style2 ">
             <h1 className="title">
-              <span>We advise</span> you, you call the right decision!
+            <span>Proven</span> methodology, <span>profound </span>impact and<br />
+                  <span>sustainable </span>results.
             </h1>
             <div className="sub-title">
               ARS Process Solutions & Consultants Pvt. Ltd., is a company
@@ -92,7 +93,7 @@ function About() {
               <div className="title-section style3 left">
                 <h1 className="title">Our MISSION</h1>
               </div>
-              <p style={{ fontSize: 18 }} >
+              <p style={{ fontSize: 20 }} >
                 Absolute Resource Solutions (ARS) mission is to provide complete
                 workforce solutions across industries and level.
               </p>
@@ -116,7 +117,7 @@ function About() {
               <div className="title-section style3 left">
                 <h1 className="title">Our VISION</h1>
               </div>
-              <p style={{ fontSize: 18 }}>
+              <p style={{ fontSize: 20 }}>
                 Our vision is to collaborate with customers in providing end to
                 end business solutions through specialized across business
                 verticals and internalize service quality using innovative

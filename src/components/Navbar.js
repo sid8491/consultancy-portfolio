@@ -107,13 +107,13 @@ function Navbar() {
                         {/* /.menu */}
                       </nav>
                       {/* /.mainnav */}
-                      <aside className="widget float-right">
+                      {/* <aside className="widget float-right">
                         <div className="btn-click style2">
                           <a href="#" className="flat-button">
                             GET A QUOTE
                           </a>
                         </div>
-                      </aside>
+                      </aside> */}
                     </div>
                     {/* /.nav-wrap */}
                     <div className="btn-menu">
