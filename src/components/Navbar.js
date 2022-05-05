@@ -12,18 +12,18 @@ function Navbar() {
               <div className="col-lg-7">
                 <div className="wrap-top margin-top9 clearfix">
                   <ul className="flat-information style2">
-                    <li>
+                    {/* <li>
                       <i className="fa fa-map-marker" />
                       <a href="#">A2B/49A, Paschim Vihar, Delhi</a>
-                    </li>
-                    <li>
+                    </li> */}
+                    {/* <li>
                       <i className="fa fa-envelope" />
                       <a href="#">info@arsps.net</a>
                     </li>
                     <li>
                       <i className="fa fa-phone" />
                       <a href="#">011-47019779</a>
-                    </li>
+                    </li> */}
                   </ul>
                 </div>
               </div>

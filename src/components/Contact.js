@@ -118,18 +118,30 @@ function Contact() {
                 </div>
               </div>
               <div className="col-lg-6">
-                <h1>Internal Hiring for ARS!</h1>
-                <p>We are looking for dynamic professionals.</p>
-                <p>Interested candidates can send us their resume at info@arsps.net</p>
-                <br />
+                {/* <h1>Internal Hiring for ARS!</h1> */}
+                <div className="title-section style2 ">
+                  <h1 className="title">
+                    Looking for a <span>JOB?</span>
+                  </h1>
+                </div>
+                <p>We are looking for dynamic professionals for multiple job openings in our internal organizations as well as for our multiple clients.</p>
+                <p>
+                  Interested candidates can send us their resume at following email address: 
+                </p>
+                <br /> 
+                Jobs at ARS: <b>info@arsps.net </b><br />
+                Jobs for our premium clients: <b> jobs@arsps.net</b> <br /> <br />
                 <b>Perks: </b>
-                <ul >
+                <ul>
                   <li>Remote work place</li>
                   <li>Best work process</li>
                   <li>Best training process</li>
                   <li>Good environment</li>
                   <li>Lucrative Incentive Structure</li>
                 </ul>
+
+                <br />
+                Consulting firms looking for collaboration can also send us email at <b>info@arsps.net </b>.<br />
               </div>
             </div>
           </div>

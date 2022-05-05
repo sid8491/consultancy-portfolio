@@ -3,9 +3,7 @@ import React from "react";
 function About() {
   return (
     <div>
-      <div
-        style={{ height: "150px", backgroundColor: "#0d2034" }}
-      ></div>
+      <div style={{ height: "150px", backgroundColor: "#0d2034" }}></div>
       <section className="section-aboutus wrap-blance blancejqurey bg-section2 clearfix">
         <div id="blance1" className="featured-aboutus float-left">
           <img src="images/services/about.jpg" alt="image" />
@@ -13,8 +11,9 @@ function About() {
         <div id="" className="info-aboutus float-left">
           <div className="title-section style2 ">
             <h1 className="title">
-            <span>Proven</span> methodology, <span>profound </span>impact and<br />
-                  <span>sustainable </span>results.
+              <span>Proven</span> methodology, <span>profound </span>impact and
+              <br />
+              <span>sustainable </span>results.
             </h1>
             <div className="sub-title">
               ARS Process Solutions & Consultants Pvt. Ltd., is a company
@@ -91,15 +90,27 @@ function About() {
           <div className="row">
             <div className="col-lg-6 history-text">
               <div className="title-section style3 left">
+              <div className="title-section style3 left">
+                <h1 className="title">Our VISION</h1>
+              </div>
+              <p style={{ fontSize: 20 }}>
+                Our vision is to collaborate with customers in providing end to
+                end business solutions through specialized across business
+                verticals and internalize service quality using innovative
+                approaches.
+              </p>
+              <br />
                 <h1 className="title">Our MISSION</h1>
               </div>
-              <p style={{ fontSize: 20 }} >
+              <p style={{ fontSize: 20 }}>
                 Absolute Resource Solutions (ARS) mission is to provide complete
                 workforce solutions across industries and level.
               </p>
             </div>
             <div className="col-lg-6">
-              <div className="iconbox iconleft" style={{ marginLeft: 200 }}>
+              <img src="images/services/mission_vision.png" alt="image" />
+
+              {/* <div className="iconbox iconleft" style={{ marginLeft: 200 }}>
                 <div className="box-header">
                   <div className="box-icon">
                     <i
@@ -109,10 +120,10 @@ function About() {
                     />
                   </div>
                 </div>
-              </div>
+              </div> */}
             </div>
           </div>
-          <div className="row">
+          {/* <div className="row">
             <div className="col-lg-6 history-text">
               <div className="title-section style3 left">
                 <h1 className="title">Our VISION</h1>
@@ -137,7 +148,7 @@ function About() {
                 </div>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
       </section>
 
