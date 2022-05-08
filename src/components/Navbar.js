@@ -78,7 +78,7 @@ function Navbar() {
                 <div className="col-lg-3">
                   <div id="logo" className="logo">
                     <a href="/" rel="home">
-                      <img src="images/ars_logo1.png" alt="image" />
+                      <img src="images/logo - Copy.png" alt="image" />
                     </a>
                   </div>
                   {/* /.logo */}

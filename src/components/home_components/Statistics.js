@@ -12,12 +12,12 @@ function Statistics() {
                 <h1 className="title">
                 Pragmatic, Professional, Progressive <br /><span>HR services</span>
                 </h1>
-                <div className="sub-title style2 linehight30">
+                {/* <div className="sub-title style2 linehight30">
                   Our research shows that great leaders prioritise innovation to
                   deliver revenue
                   <br />
                   growth which outperforms their peers
-                </div>
+                </div> */}
               </div>
             </div>
             {/* /.col-md-12 */}

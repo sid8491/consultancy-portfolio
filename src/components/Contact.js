@@ -124,14 +124,27 @@ function Contact() {
                     Looking for a <span>JOB?</span>
                   </h1>
                 </div>
-                <p>We are looking for dynamic professionals for multiple job openings in our internal organizations as well as for our multiple clients.</p>
                 <p>
-                  Interested candidates can send us their resume at following email address: 
+                  ARS can help you to find a suitable career as per your skills
+                  and capabilities.
                 </p>
-                <br /> 
-                Jobs at ARS: <b>info@arsps.net </b><br />
-                Jobs for our premium clients: <b> jobs@arsps.net</b> <br /> <br />
-                <b>Perks: </b>
+                <p>
+                  Interested candidates can send us their resume at:{" "}
+                  <b> jobs@arsps.net</b>
+                </p>
+                <br />
+                <p>
+                  ARS can help corporates to find out right talent as per
+                  corporates needs.
+                </p>
+                <p>
+                  To find hiring solutions, drop your queries at:{" "}
+                  <b>info@arsps.net </b>
+                </p>
+                <br />
+                <h4 className="title">
+                  <span>Perks:</span>
+                </h4>
                 <ul>
                   <li>Remote work place</li>
                   <li>Best work process</li>
@@ -139,9 +152,7 @@ function Contact() {
                   <li>Good environment</li>
                   <li>Lucrative Incentive Structure</li>
                 </ul>
-
-                <br />
-                Consulting firms looking for collaboration can also send us email at <b>info@arsps.net </b>.<br />
+               
               </div>
             </div>
           </div>

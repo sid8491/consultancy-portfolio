@@ -11,9 +11,9 @@ function About() {
         <div id="" className="info-aboutus float-left">
           <div className="title-section style2 ">
             <h1 className="title">
-              <span>Proven</span> methodology, <span>profound </span>impact and
+              <span>Proven</span> methodology, <span>Profound </span>impact and
               <br />
-              <span>sustainable </span>results.
+              <span>Sustainable </span>results.
             </h1>
             <div className="sub-title">
               ARS Process Solutions & Consultants Pvt. Ltd., is a company
@@ -107,7 +107,7 @@ function About() {
                 workforce solutions across industries and level.
               </p>
             </div>
-            <div className="col-lg-6">
+            <div className="col-lg-6" style={{paddingLeft: 160, paddingTop: 50}}>
               <img src="images/services/mission_vision.png" alt="image" />
 
               {/* <div className="iconbox iconleft" style={{ marginLeft: 200 }}>
