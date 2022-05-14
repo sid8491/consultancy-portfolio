@@ -202,8 +202,8 @@ function Services() {
             <div className="col-md-12">
               <div className="title-section style2 color-white text-center">
                 <h1 className="title">
-                <span>Proven</span> methodology, <span>Profound </span>impact and<br />
-                  <span>Sustainable </span>results.
+                <span>Proven</span> Methodology, <span>Profound </span>Impact and<br />
+                  <span>Sustainable </span>Results.
                 </h1>
                 <div className="sub-title">
                   

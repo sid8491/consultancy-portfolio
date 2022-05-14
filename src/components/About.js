@@ -11,9 +11,10 @@ function About() {
         <div id="" className="info-aboutus float-left">
           <div className="title-section style2 ">
             <h1 className="title">
-              <span>Proven</span> methodology, <span>Profound </span>impact and
+              <span>Proven</span> Methodology,
+              <br /> <span>Profound </span>Impact and
               <br />
-              <span>Sustainable </span>results.
+              <span>Sustainable </span>Results.
             </h1>
             <div className="sub-title">
               ARS Process Solutions & Consultants Pvt. Ltd., is a company
@@ -90,16 +91,16 @@ function About() {
           <div className="row">
             <div className="col-lg-6 history-text">
               <div className="title-section style3 left">
-              <div className="title-section style3 left">
-                <h1 className="title">Our VISION</h1>
-              </div>
-              <p style={{ fontSize: 20 }}>
-                Our vision is to collaborate with customers in providing end to
-                end business solutions through specialized across business
-                verticals and internalize service quality using innovative
-                approaches.
-              </p>
-              <br />
+                <div className="title-section style3 left">
+                  <h1 className="title">Our VISION</h1>
+                </div>
+                <p style={{ fontSize: 20 }}>
+                  Our vision is to collaborate with customers in providing end
+                  to end business solutions through specialized across business
+                  verticals and internalize service quality using innovative
+                  approaches.
+                </p>
+                <br />
                 <h1 className="title">Our MISSION</h1>
               </div>
               <p style={{ fontSize: 20 }}>
@@ -107,7 +108,10 @@ function About() {
                 workforce solutions across industries and level.
               </p>
             </div>
-            <div className="col-lg-6" style={{paddingLeft: 160, paddingTop: 50}}>
+            <div
+              className="col-lg-6"
+              style={{ paddingLeft: 160, paddingTop: 50 }}
+            >
               <img src="images/services/mission_vision.png" alt="image" />
 
               {/* <div className="iconbox iconleft" style={{ marginLeft: 200 }}>

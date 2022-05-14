@@ -6,15 +6,15 @@ function Footer() {
       <footer className="footer widget-footer">
         <div className="container">
           <div className="row">
-            <div className="col-lg-3 col-sm-6 reponsive-mb30">
+            <div className="col-lg-6 col-sm-6 reponsive-mb30">
               <div className="widget-logo">
                 <div id="logo-footer" className="logo">
                   <a href="/" rel="home">
-                    <img src="images/logo.png" alt="image" />
+                    <img src="images/logo.png" alt="image"/>
                   </a>
                 </div>
-                <p>Solving Corporate challenges - Absolutely</p>
-                <ul className="flat-information">
+                {/* <p>Solving Corporate challenges - Absolutely</p> */}
+                {/* <ul className="flat-information">
                   <li>
                     <i className="fa fa-map-marker" />
                     <a href="#">A2B/49A, Paschim Vihar, Delhi</a>
@@ -27,7 +27,7 @@ function Footer() {
                     <i className="fa fa-envelope" />
                     <a href="#">info@arsps.net</a>
                   </li>
-                </ul>
+                </ul> */}
               </div>
             </div>
             {/* /.col-md-3 */}

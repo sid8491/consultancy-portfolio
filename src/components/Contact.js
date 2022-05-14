@@ -121,38 +121,39 @@ function Contact() {
                 {/* <h1>Internal Hiring for ARS!</h1> */}
                 <div className="title-section style2 ">
                   <h1 className="title">
-                    Looking for a <span>JOB?</span>
+                    Thinking about <span>Suitable Career</span> or <span>Hiring support </span><br />Connect ARS <span> 😇 </span>
                   </h1>
                 </div>
-                <p>
-                  ARS can help you to find a suitable career as per your skills
-                  and capabilities.
-                </p>
-                <p>
-                  Interested candidates can send us their resume at:{" "}
-                  <b> jobs@arsps.net</b>
-                </p>
-                <br />
-                <p>
-                  ARS can help corporates to find out right talent as per
-                  corporates needs.
-                </p>
-                <p>
-                  To find hiring solutions, drop your queries at:{" "}
-                  <b>info@arsps.net </b>
-                </p>
-                <br />
-                <h4 className="title">
-                  <span>Perks:</span>
-                </h4>
-                <ul>
-                  <li>Remote work place</li>
-                  <li>Best work process</li>
-                  <li>Best training process</li>
-                  <li>Good environment</li>
-                  <li>Lucrative Incentive Structure</li>
-                </ul>
-               
+                <div style={{ fontSize: "18px" }}>
+                  <p>
+                    ARS can help you to find a suitable career as per your
+                    skills and capabilities.
+                  </p>
+                  <p>
+                    Interested candidates can send us their resume at:{" "}
+                   <span> <b> jobs@arsps.net</b></span>
+                  </p>
+                  <br />
+                  <p>
+                    ARS can help corporates to find out right talent as per
+                    corporates needs.
+                  </p>
+                  <p>
+                    To find hiring solutions, drop your queries at:{" "}
+                    <b>info@arsps.net </b>
+                  </p>
+                  <br />
+                  <h4 className="title">
+                    <span>Perks:</span>
+                  </h4>
+                  <ul>
+                    <li>Remote work place</li>
+                    <li>Best work process</li>
+                    <li>Best training process</li>
+                    <li>Good environment</li>
+                    <li>Lucrative Incentive Structure</li>
+                  </ul>
+                </div>
               </div>
             </div>
           </div>
