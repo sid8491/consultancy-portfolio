@@ -121,7 +121,7 @@ function Contact() {
                 {/* <h1>Internal Hiring for ARS!</h1> */}
                 <div className="title-section style2 ">
                   <h1 className="title">
-                    Thinking about <span>Suitable Career</span> or <span>Hiring support </span><br />Connect ARS <span> 😇 </span>
+                    Thinking about <br /><span>Suitable Career</span> <br />or <br /><span>Hiring support </span><br />Connect <span> 👉 </span> ARS <span> 👈 </span>
                   </h1>
                 </div>
                 <div style={{ fontSize: "18px" }}>
@@ -131,7 +131,7 @@ function Contact() {
                   </p>
                   <p>
                     Interested candidates can send us their resume at:{" "}
-                   <span> <b> jobs@arsps.net</b></span>
+                   <span> <b> jobs@arsps.net</b></span> <span style={{fontSize: "30px"}}>📩</span>
                   </p>
                   <br />
                   <p>
@@ -140,7 +140,7 @@ function Contact() {
                   </p>
                   <p>
                     To find hiring solutions, drop your queries at:{" "}
-                    <b>info@arsps.net </b>
+                    <b>info@arsps.net </b> <span style={{fontSize: "30px"}}>📩</span>
                   </p>
                   <br />
                   <h4 className="title">
