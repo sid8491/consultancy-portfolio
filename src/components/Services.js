@@ -272,7 +272,7 @@ function Services() {
               {/* /.flat-counter */}
             </div>
             <div className="col-lg-3 col-sm-6">
-              <div className="flat-counter  style2  text-center">
+              <div className="flat-counter before style2  text-center">
                 <div className="content-counter">
                   <div className="icon-count">
                     <i className="ti-heart-broken" />
