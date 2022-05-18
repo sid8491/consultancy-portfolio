@@ -279,11 +279,11 @@ function Services() {
                   </div>
                   <div
                     className="numb-count"
-                    data-to={10}
+                    data-to={7}
                     data-speed={2000}
                     data-waypoint-active="yes"
                   >
-                    10
+                    7
                   </div>
                   <div className="name-count">Years of Experience</div>
                 </div>
