@@ -2,7 +2,7 @@ import React from "react";
 import { useForm, ValidationError } from "@formspree/react";
 
 function Contact() {
-  const [state, handleSubmit] = useForm("xayvebnj", {
+  const [state, handleSubmit] = useForm("mayvvjze", {
     data: {
       subject: "ARS Contact Us",
       pageTitle: function () {
@@ -11,9 +11,6 @@ function Contact() {
       },
     },
   });
-  if (state.succeeded) {
-    return <p>Thanks for contacting!</p>;
-  }
   return (
     <div>
       <div style={{ height: "150px", backgroundColor: "#0d2034" }}></div>
@@ -127,12 +124,13 @@ function Contact() {
                         title="Submit now"
                         disabled={state.submitting}
                       >
-                        send message
+                        send message 
                       </button>
                     </span>
                   </form>
                 </div>
               </div>
+
               <div className="col-lg-6">
                 {/* <h1>Internal Hiring for ARS!</h1> */}
                 <div className="title-section style2 ">
