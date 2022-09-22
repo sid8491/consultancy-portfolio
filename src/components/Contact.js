@@ -75,6 +75,22 @@ function Contact() {
                         required="required"
                       />
                     </span>
+
+                    <span className="flat-input">
+                      <ValidationError
+                        prefix="mobile"
+                        field="mobile"
+                        errors={state.errors}
+                      />
+                      <input
+                        name="mobile"
+                        id="mobile"
+                        type="text"
+                        placeholder="Mobile"
+                        required="required"
+                      />
+                    </span>
+
                     <span className="flat-input">
                       <ValidationError
                         prefix="email"
